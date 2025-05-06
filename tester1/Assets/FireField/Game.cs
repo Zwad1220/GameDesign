@@ -7,6 +7,7 @@ public class Game : MonoBehaviour
     public GameObject GameOverScreen;
     public GameObject GameWonScreen;
     public GameObject Exit;
+    public GameObject text;
     public int width = 10;
     public int height = 10;
     private BoardScript board;
@@ -27,6 +28,7 @@ public class Game : MonoBehaviour
     {
         complete = false;
         staticData2.value = complete;
+
         NewGame();
     }
 
@@ -63,7 +65,11 @@ public class Game : MonoBehaviour
 
     public void NewGame()
     {
+        coversNum = 15;
+        covers.text = coversNum.ToString();
+        Cover();
         GameOverScreen.SetActive(false);
+        text.SetActive(true);
         gameover = false;
         state = new CellScript[width, height];
         GenerateCells();
@@ -111,9 +117,9 @@ public class Game : MonoBehaviour
 
     private void GenerateNumbers()
     {
-        for(int x = 0; x < width; x++)
+        for (int x = 0; x < width; x++)
         {
-            for( int y = 0; y < height; y++)
+            for (int y = 0; y < height; y++)
             {
                 CellScript cell = state[x, y];
                 if (state[x, y].type == CellScript.Type.NomNom)
@@ -121,11 +127,11 @@ public class Game : MonoBehaviour
                     continue;
                 }
                 cell.number = CountMines(x, y);
-                if(cell.number > 0)
+                if (cell.number > 0)
                 {
                     cell.type = CellScript.Type.Number;
                 }
-                state [x, y] = cell;
+                state[x, y] = cell;
             }
         }
     }
@@ -143,7 +149,7 @@ public class Game : MonoBehaviour
                 }
                 int x = cellX + AdjacentX;
                 int y = cellY + AdjacentY;
-                
+
                 if (GetCell(x, y).type == CellScript.Type.NomNom)
                 {
                     count++;
@@ -217,7 +223,7 @@ public class Game : MonoBehaviour
             SpreadFire(GetCell(cell.position.x - 1, cell.position.y));
             SpreadFire(GetCell(cell.position.x + 1, cell.position.y));
             SpreadFire(GetCell(cell.position.x, cell.position.y - 1));
-            SpreadFire(GetCell(cell.position.x, cell.position.y +1));
+            SpreadFire(GetCell(cell.position.x, cell.position.y + 1));
             SpreadFire(GetCell(cell.position.x - 1, cell.position.y - 1)); // Diagonal
             SpreadFire(GetCell(cell.position.x - 1, cell.position.y + 1)); // Diagonal
             SpreadFire(GetCell(cell.position.x + 1, cell.position.y - 1)); // Diagonal
@@ -227,6 +233,7 @@ public class Game : MonoBehaviour
 
     private void BurnNomNom(CellScript cell)
     {
+        text.SetActive(false);
         GameOverScreen.SetActive(true);
         logic.ReduceLife();
         gameover = true;
