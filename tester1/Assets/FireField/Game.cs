@@ -65,9 +65,9 @@ public class Game : MonoBehaviour
 
     public void NewGame()
     {
-        coversNum = 15;
-        covers.text = coversNum.ToString();
-        Cover();
+       // coversNum = 15;
+       // covers.text = coversNum.ToString();
+        //Cover();
         GameOverScreen.SetActive(false);
         text.SetActive(true);
         gameover = false;

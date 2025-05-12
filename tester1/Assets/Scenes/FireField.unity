@@ -1198,6 +1198,7 @@ MonoBehaviour:
   GameOverScreen: {fileID: 1043101208}
   GameWonScreen: {fileID: 141351028}
   Exit: {fileID: 802809268}
+  text: {fileID: 1146333410}
   width: 10
   height: 10
   NomNomCount: 15
