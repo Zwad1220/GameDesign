@@ -9,7 +9,7 @@ public class ClickRate : MonoBehaviour
 {
     float lastTime, cps, clickReq = 4f;
     int count = 0;
-    bool fail = false, fail2 = false, win = false;
+    bool fail = false, win = false;
     string display;
     public Text clickRate;
     public Text clickRequirement;

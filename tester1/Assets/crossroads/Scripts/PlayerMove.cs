@@ -67,10 +67,7 @@ public class PlayerMove : MonoBehaviour
 
     void Move()
     {
-        
             player.linearVelocity = new Vector2(moveDirection.x * moveSpeed, moveDirection.y * moveSpeed);
-        
-       
     }
 
     void flip()
