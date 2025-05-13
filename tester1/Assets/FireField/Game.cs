@@ -65,9 +65,8 @@ public class Game : MonoBehaviour
 
     public void NewGame()
     {
-       // coversNum = 15;
-       // covers.text = coversNum.ToString();
-        //Cover();
+        coversNum = 15;
+        covers.text = coversNum.ToString();
         GameOverScreen.SetActive(false);
         text.SetActive(true);
         gameover = false;
@@ -165,24 +164,31 @@ public class Game : MonoBehaviour
         Vector3Int cellPosition = board.tilemap.WorldToCell(worldPosition);
         CellScript cell = GetCell(cellPosition.x, cellPosition.y);
 
-        if (cell.type == CellScript.Type.Invalid || cell.revealed || coversNum == 0)
+        if (cell.type == CellScript.Type.Invalid || cell.revealed)
         {
             return;
         }
         cell.covered = !cell.covered;
         if (cell.covered)
         {
+            if (coversNum == 0)
+            {
+                return; 
+            }
+            cell.covered = true;
             coversNum--;
-            covers.text = coversNum.ToString();
         }
         else
         {
+            cell.covered = false;
             coversNum++;
-            covers.text = coversNum.ToString();
         }
+
+        covers.text = coversNum.ToString();
         state[cell.position.x, cell.position.y] = cell;
         board.Draw(state);
     }
+
 
     private void Reveal()
     {
