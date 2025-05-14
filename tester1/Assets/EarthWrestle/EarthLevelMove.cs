@@ -1,44 +1,42 @@
 using UnityEngine;
 
-
-public class LevelMove : MonoBehaviour
+public class EarthLevelMove : MonoBehaviour
 {
-
-    public StartLevel StartLevel;
-    public CompletedLevel CompletedLevel;
-    public staticData staticData;
-    public staticData2 staticData2;
+    public WrestleStart wrestleStart;
+   // public MineComplete MineComplete;
+  //  public completedGame GameComplete;
     public staticData3 staticData3;
-    public completedGame GameComplete;
+    public staticData2 staticData2;
+    public staticData staticData;
     private void OnTriggerEnter2D(Collider2D other)
     {
         print("Trigger Entered");
 
         if (other.tag == "Player")
         {
-            if (staticData.value != true || staticData2.value != true|| staticData3.value != true)
+            if (staticData.value != true || staticData2.value != true||staticData3.value != true)
             {
-                if (staticData.value == false)
+
+                if (staticData3.value == false)
                 {
                     PlayerMove movement = other.GetComponent<PlayerMove>();
                     movement.canMove = false;
-                    StartLevel.Setup();
+                    wrestleStart.Setup();
                 }
                 else
                 {
                     PlayerMove movement = other.GetComponent<PlayerMove>();
                     movement.canMove = false;
-                    CompletedLevel.Setup();
+                    //MineComplete.Setup();
                 }
             }
             else
             {
                 PlayerMove movement = other.GetComponent<PlayerMove>();
                 movement.canMove = false;
-                GameComplete.Setup();
+               // GameComplete.Setup();
             }
         }
 
     }
-
 }
