@@ -37,8 +37,6 @@ public class BirdScript : MonoBehaviour
                 active = false;
                 Exit.SetActive(false);
             }
-           
-        
     }
 
         if (Input.GetKeyDown(KeyCode.Space) && BirdIsAlive)

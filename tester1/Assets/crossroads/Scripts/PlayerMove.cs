@@ -1,3 +1,4 @@
+using Unity.Jobs;
 using UnityEngine;
 
 public class PlayerMove : MonoBehaviour
@@ -77,4 +78,5 @@ public class PlayerMove : MonoBehaviour
         gameObject.transform.localScale = scale;
         right = !right;
     }
+
 }
