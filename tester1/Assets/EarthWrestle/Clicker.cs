@@ -13,38 +13,56 @@ public class ClickRate : MonoBehaviour
     string display;
     public Text clickRate;
     public Text clickRequirement;
+    float currentTime1;
+
+    [SerializeField] Text countdownText;
     void Start()
     {
-        cps = 0;
+        cps = 5f;
+        display = "Click!";
+        currentTime1 = 3f;
     }
 
     void Update()
     {
-        if (Input.GetMouseButtonDown(0) && !fail && !win)
+        //currentTime1 -= 1 * Time.deltaTime;
+        //countdownText.text = currentTime1.ToString("0");
+
+        //if (currentTime1 > 0) cps = 5f;
+        //if (currentTime1 <= 0)
         {
-            count++;
-            float currentTime = Time.time;
-            float diff = currentTime - lastTime;
-            lastTime = currentTime;
-            cps = 1f / diff;
-            cps = Mathf.Round(cps * 10.0f) * 0.1f;
-            display = cps.ToString();
-            if (cps < clickReq)
+            countdownText.text = "";
+            if (Input.GetMouseButtonDown(0) && !fail && !win)
             {
-                fail = true;
-                display = "failed!";
+                count++;
+                float currentTime = Time.time;
+                float diff = currentTime - lastTime;
+                lastTime = currentTime;
+                cps = 1f / diff;
+                cps = Mathf.Round(cps * 10.0f) * 0.1f;
+                display = cps.ToString();
+                if (cps < clickReq)
+                {
+                    fail = true;
+                    display = "failed!";
+                }
             }
+            if (count == 40 && !fail)
+            {
+                clickReq = 5f;
+            }
+            if (count == 55 && !fail)
+            {
+                win = true;
+                display = "You won!";
+            }
+            
+            clickRequirement.text = "Stay above " + clickReq.ToString() + " CPS:";
+            clickRate.text = display;
         }
-        if (count == 40 && !fail)
-        {
-            clickReq = 5f;
-        }
-        if (count == 55 && !fail)
-        {
-            win = true;
-            display = "You won!";
-        }
-        clickRequirement.text = "Stay above " + clickReq.ToString() + " CPS:";
-        clickRate.text = display;
+    }
+    public void clicker()
+    {
+            
     }
 }
