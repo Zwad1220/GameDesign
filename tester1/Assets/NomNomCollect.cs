@@ -5,21 +5,30 @@ using UnityEngine.UI;
 
 public class NomNomCollect : MonoBehaviour
 {
-    public GameObject NomNom;
+    public  NomNomCount NomNomCount;
+    //public GameObject NomNom;
     public GameObject GameWinScreen;
     public float count = 0;
-    public Text NomNomCount;
+    public Text NomNomnum;
     public AudioManager audioManager;
+
+    public void Start()
+    {
+        NomNomCount.value = 0;
+    }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        count++;
-        audioManager.PlaySFX(audioManager.NomNomCollect);
-        Destroy(NomNom);
-        NomNomCount.text = count.ToString();
-        if (count == 4)
+        if (collision.gameObject.CompareTag("Player"))
         {
-            GameWinScreen.SetActive(true);
+            NomNomCount.value++;
+            audioManager.PlaySFX(audioManager.NomNomCollect);
+            Destroy(gameObject);
+            NomNomnum.text = NomNomCount.value.ToString();
+            if (NomNomCount.value == 4)
+            {
+                GameWinScreen.SetActive(true);
+            }
         }
     }
 }

@@ -3,7 +3,7 @@ using UnityEngine;
 public class EarthLevelMove : MonoBehaviour
 {
     public WrestleStart wrestleStart;
-   // public MineComplete MineComplete;
+    public LockDoor lockDoor;
     public completedGame GameComplete;
     public staticData3 staticData3;
     public staticData2 staticData2;

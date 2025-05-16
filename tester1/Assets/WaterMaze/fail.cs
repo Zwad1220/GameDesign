@@ -1,4 +1,6 @@
+using NUnit.Framework;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class fail : MonoBehaviour
 {
@@ -10,7 +12,12 @@ public class fail : MonoBehaviour
         if (collision.gameObject.CompareTag("Chaser"))
         {
             audioManager.PlaySFX(audioManager.death);
+            Player.SetActive(false);
             GameOverScreen.SetActive(true);
         }
+    }
+    public void retryButton()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 }

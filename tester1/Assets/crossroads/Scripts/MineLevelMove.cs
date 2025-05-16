@@ -3,7 +3,7 @@ using UnityEngine;
 public class MineLevelMove : MonoBehaviour
 {
     public MineStart MineStart;
-    public MineComplete MineComplete;
+    public LockDoor lockDoor;
     public completedGame GameComplete;
     public staticData4 staticData4;
     public staticData3 staticData3;
@@ -28,7 +28,7 @@ public class MineLevelMove : MonoBehaviour
                 {
                     PlayerMove movement = other.GetComponent<PlayerMove>();
                     movement.canMove = false;
-                    MineComplete.Setup();
+                    lockDoor.Setup();
                 }
             }
             else
