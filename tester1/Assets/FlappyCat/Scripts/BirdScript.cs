@@ -8,6 +8,7 @@ public class BirdScript : MonoBehaviour
     public Rigidbody2D MyRigidBody;
     public float flapStrength;
     public LogicScript logic;
+    public AudioManager audioManager;
     public bool BirdIsAlive = true;
     public bool complete;
     private bool hasCollided = false;
@@ -41,11 +42,10 @@ public class BirdScript : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.Space) && BirdIsAlive)
         {
+            audioManager.PlaySFX(audioManager.click);
             MyRigidBody.linearVelocity = Vector2.up * flapStrength;
         }
     }
-
-
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
@@ -53,6 +53,7 @@ public class BirdScript : MonoBehaviour
 
         if (collision.CompareTag("GameController"))
         {
+            audioManager.PlaySFX(audioManager.death);
             hasCollided = true;
             logic.GameOver();
             BirdIsAlive = false;
@@ -64,11 +65,16 @@ public class BirdScript : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("NomNom"))
         {
+            audioManager.PlaySFX(audioManager.NomNomCollect);
             complete = true;
             staticData.value = complete;
             logic.GameWon();
             GameObject.Destroy(collision.gameObject);
             BirdIsAlive = true;
+        }
+        else
+        {
+            audioManager.PlaySFX(audioManager.touch);
         }
     }
 }

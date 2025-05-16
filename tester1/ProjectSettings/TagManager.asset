@@ -6,6 +6,9 @@ TagManager:
   tags:
   - NomNom
   - Chaser
+  - Audio
+  - Logic
+  - Pipe
   layers:
   - Default
   - TransparentFX

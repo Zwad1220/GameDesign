@@ -7427,9 +7427,8 @@ MonoBehaviour:
   backround4: {fileID: 8300000, guid: 51a4f1157b7ff1449b5e5cf064d584c7, type: 3}
   death: {fileID: 8300000, guid: 7e9ee6dc04a5d40d1a5dfc4beb9865e7, type: 3}
   NomNomCollect: {fileID: 8300000, guid: 52320e590bf774734a288886eba557ba, type: 3}
-  pipeTouch: {fileID: 8300000, guid: 19f89c6e740e7447f9e12a8310d3e973, type: 3}
-  jump: {fileID: 8300000, guid: ffb159a21c8a04135a5616979c828fab, type: 3}
-  treeTouch: {fileID: 0}
+  touch: {fileID: 8300000, guid: 19f89c6e740e7447f9e12a8310d3e973, type: 3}
+  click: {fileID: 8300000, guid: ffb159a21c8a04135a5616979c828fab, type: 3}
 --- !u!4 &913516984
 Transform:
   m_ObjectHideFlags: 0

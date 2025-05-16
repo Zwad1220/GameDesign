@@ -13,14 +13,15 @@ public class ClickRate : MonoBehaviour
     string display;
     public Text clickRate;
     public Text clickRequirement;
-    float currentTime1;
+    //float currentTime1;
+    public AudioManager audioManager;
 
     [SerializeField] Text countdownText;
     void Start()
     {
-        cps = 5f;
+        cps = 0;
         display = "Click!";
-        currentTime1 = 3f;
+        //currentTime1 = 3f;
     }
 
     void Update()
@@ -31,9 +32,10 @@ public class ClickRate : MonoBehaviour
         //if (currentTime1 > 0) cps = 5f;
         //if (currentTime1 <= 0)
         {
-            countdownText.text = "";
+            //countdownText.text = "";
             if (Input.GetMouseButtonDown(0) && !fail && !win)
             {
+                audioManager.PlaySFX(audioManager.click);
                 count++;
                 float currentTime = Time.time;
                 float diff = currentTime - lastTime;
@@ -56,13 +58,8 @@ public class ClickRate : MonoBehaviour
                 win = true;
                 display = "You won!";
             }
-            
             clickRequirement.text = "Stay above " + clickReq.ToString() + " CPS:";
             clickRate.text = display;
         }
-    }
-    public void clicker()
-    {
-            
     }
 }

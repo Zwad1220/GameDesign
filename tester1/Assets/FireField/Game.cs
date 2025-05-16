@@ -19,6 +19,7 @@ public class Game : MonoBehaviour
     public bool active = false;
     public Text covers;
     public LogicScript logic;
+    public AudioManager audioManager;
     private void Awake()
     {
         board = GetComponentInChildren<BoardScript>();
@@ -160,6 +161,7 @@ public class Game : MonoBehaviour
 
     private void Cover()
     {
+        audioManager.PlaySFX(audioManager.touch);
         Vector3 worldPosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
         Vector3Int cellPosition = board.tilemap.WorldToCell(worldPosition);
         CellScript cell = GetCell(cellPosition.x, cellPosition.y);
@@ -192,6 +194,7 @@ public class Game : MonoBehaviour
 
     private void Reveal()
     {
+        audioManager.PlaySFX(audioManager.click);
         Vector3 worldPosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
         Vector3Int cellPosition = board.tilemap.WorldToCell(worldPosition);
         CellScript cell = GetCell(cellPosition.x, cellPosition.y);
@@ -239,6 +242,7 @@ public class Game : MonoBehaviour
 
     private void BurnNomNom(CellScript cell)
     {
+        audioManager.PlaySFX(audioManager.death);
         text.SetActive(false);
         GameOverScreen.SetActive(true);
         logic.ReduceLife();
@@ -279,6 +283,7 @@ public class Game : MonoBehaviour
         complete = true;
         staticData2.value = complete;
         GameWonScreen.SetActive(true);
+        audioManager.PlaySFX(audioManager.NomNomCollect);
         gameover = true;
 
         for (int x = 0; x < width; x++)
