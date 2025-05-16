@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: de14aa0b18724f84885541c3be756004
+guid: e49ac44f27423be4aacd83b9b5b3c7f5
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8634368658134348540
-    second: unitytut-pipe_0
+      213: -6627177811195005452
+    second: nom nom sealed 1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -51,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: unitytut-pipe_0
+      name: nom nom sealed 1_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 533
-        height: 2186
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 40dc228c37f8c2880800000000000000
-      internalID: -8634368658134348540
+      spriteID: 4f5fe5c94e88704a0800000000000000
+      internalID: -6627177811195005452
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      unitytut-pipe_0: -8634368658134348540
+      nom nom sealed 1_0: -6627177811195005452
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 26fe0a76887273a4dac5d9298486773f
+guid: 207e56a299b6ae44fa58ae7b4db3f45c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3543618955177837302
-    second: flyingCat_0
+      213: 8939293225465961363
+    second: fire backgroud_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: flyingCat_0
+      name: fire backgroud_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 535
-        height: 354
+        width: 150
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6f247b23aa67d2130800000000000000
-      internalID: 3543618955177837302
+      spriteID: 39b54fe73dfbe0c70800000000000000
+      internalID: 8939293225465961363
       vertices: []
       indices: 
       edges: []
@@ -147,8 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      flyingCat_0: 3543618955177837302
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
