@@ -1543,7 +1543,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tileUnkown: {fileID: 11400000, guid: ed5836a548777674596411d5c60ad7c0, type: 2}
-  tileEmpty: {fileID: 11400000, guid: c79f26cc741bd4e4387515a344145f2d, type: 2}
+  tileEmpty: {fileID: 11400000, guid: c57a5fd8ba55cbb4ea4e1d07cd37323f, type: 2}
   tileNomNom: {fileID: 11400000, guid: 207100c29212db54cbdfe649541d3e76, type: 2}
   tileBurnt: {fileID: 11400000, guid: 16cea3143144c134d95c16a34b1d240a, type: 2}
   tileCovered: {fileID: 11400000, guid: 1a73118f690d88a40b7d4ebb030f65fb, type: 2}
@@ -1970,7 +1970,7 @@ AudioSource:
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
@@ -2662,10 +2662,6 @@ MonoBehaviour:
   musicSource: {fileID: 1337508939}
   SFXSource: {fileID: 939521001}
   backround: {fileID: 8300000, guid: fc5af015011ea3745b7f78ea1dd1049f, type: 3}
-  backround1: {fileID: 8300000, guid: bef0cef2ded0f0645ad90c6e5bdd4965, type: 3}
-  backround2: {fileID: 8300000, guid: fc5af015011ea3745b7f78ea1dd1049f, type: 3}
-  backround3: {fileID: 8300000, guid: 559c232a43caebe41870ce54786f604e, type: 3}
-  backround4: {fileID: 8300000, guid: 51a4f1157b7ff1449b5e5cf064d584c7, type: 3}
   death: {fileID: 8300000, guid: 7e9ee6dc04a5d40d1a5dfc4beb9865e7, type: 3}
   NomNomCollect: {fileID: 8300000, guid: 52320e590bf774734a288886eba557ba, type: 3}
   touch: {fileID: 8300000, guid: 19f89c6e740e7447f9e12a8310d3e973, type: 3}

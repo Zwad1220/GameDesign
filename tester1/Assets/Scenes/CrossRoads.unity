@@ -7421,10 +7421,6 @@ MonoBehaviour:
   musicSource: {fileID: 1704525127}
   SFXSource: {fileID: 1631329616}
   backround: {fileID: 8300000, guid: 033766cc31c97904bae4404b8a079544, type: 3}
-  backround1: {fileID: 8300000, guid: bef0cef2ded0f0645ad90c6e5bdd4965, type: 3}
-  backround2: {fileID: 8300000, guid: fc5af015011ea3745b7f78ea1dd1049f, type: 3}
-  backround3: {fileID: 8300000, guid: 559c232a43caebe41870ce54786f604e, type: 3}
-  backround4: {fileID: 8300000, guid: 51a4f1157b7ff1449b5e5cf064d584c7, type: 3}
   death: {fileID: 8300000, guid: 7e9ee6dc04a5d40d1a5dfc4beb9865e7, type: 3}
   NomNomCollect: {fileID: 8300000, guid: 52320e590bf774734a288886eba557ba, type: 3}
   touch: {fileID: 8300000, guid: 19f89c6e740e7447f9e12a8310d3e973, type: 3}
@@ -15447,9 +15443,9 @@ AudioSource:
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 0}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.9
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
