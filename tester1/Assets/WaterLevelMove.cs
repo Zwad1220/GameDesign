@@ -1,10 +1,10 @@
 using UnityEngine;
 
 
-public class LevelMove : MonoBehaviour
+public class WaterLevelMove : MonoBehaviour
 {
 
-    public StartLevel StartLevel;
+    public WaterStart WaterStart;
     public CompletedLevel CompletedLevel;
     public staticData staticData;
     public staticData2 staticData2;
@@ -17,13 +17,13 @@ public class LevelMove : MonoBehaviour
 
         if (other.tag == "Player")
         {
-            if (staticData.value != true || staticData2.value != true|| staticData3.value != true || staticData4.value != true)
+            if (staticData.value != true || staticData2.value != true || staticData3.value != true || staticData4.value != true)
             {
                 if (staticData.value == false)
                 {
                     PlayerMove movement = other.GetComponent<PlayerMove>();
                     movement.canMove = false;
-                    StartLevel.Setup();
+                    WaterStart.Setup();
                 }
                 else
                 {
@@ -43,3 +43,4 @@ public class LevelMove : MonoBehaviour
     }
 
 }
+

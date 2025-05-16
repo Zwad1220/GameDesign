@@ -14,11 +14,12 @@ public class PlayerMove : MonoBehaviour
     public staticData staticData;
     public staticData2 staticData2;
     public staticData3 staticData3;
+    public staticData4 staticData4;
     // Update is called once per frame
     private void Start()
     {
         canMove = true;
-        if (staticData.value == true && staticData2.value == true && staticData3.value == true)
+        if (staticData.value == true && staticData2.value == true && staticData3.value == true && staticData4.value == true)
         {
             GameComplete.Setup();
         }
