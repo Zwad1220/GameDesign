@@ -6,11 +6,12 @@ using UnityEngine.UI;
 public class NomNomCollect : MonoBehaviour
 {
     public  NomNomCount NomNomCount;
-    //public GameObject NomNom;
+    public GameObject chaser;
     public GameObject GameWinScreen;
     public float count = 0;
     public Text NomNomnum;
     public AudioManager audioManager;
+    public staticData4 staticData4;
 
     public void Start()
     {
@@ -27,8 +28,14 @@ public class NomNomCollect : MonoBehaviour
             NomNomnum.text = NomNomCount.value.ToString();
             if (NomNomCount.value == 4)
             {
+                staticData4.value = true;
+                Destroy(chaser);
+                PlayerMove movement = collision.gameObject.GetComponent<PlayerMove>();
+                movement.canMove = false;
                 GameWinScreen.SetActive(true);
             }
         }
     }
+
+  
 }
