@@ -27,7 +27,7 @@ public class PipeSpawnerScript : MonoBehaviour
             Instantiate(Ground, new Vector3(transform.position.x, -13, 0), transform.rotation);
             timer2++;
         }
-        else if (timer2 == 31)
+        else if (timer2 == 31) //31
         {
             Instantiate(NomNom, new Vector3(transform.position.x, 0, 0), transform.rotation);
             timer2++;

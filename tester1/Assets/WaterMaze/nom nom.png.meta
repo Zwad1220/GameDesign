@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: e8665fcf86c95594890dc9eee24fb49b
+guid: 8ce2aac6b471f9d4ca39e11ad5da7842
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3803887304354961441
-    second: unitytut-birdbody_0
+      213: -3228988819769210526
+    second: nom nom_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -51,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: unitytut-birdbody_0
+      name: nom nom_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 446
-        height: 520
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fd7ed4a86a0e53bc0800000000000000
-      internalID: -3803887304354961441
+      spriteID: 269c2fdb6c35033d0800000000000000
+      internalID: -3228988819769210526
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      unitytut-birdbody_0: -3803887304354961441
+      nom nom_0: -3228988819769210526
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

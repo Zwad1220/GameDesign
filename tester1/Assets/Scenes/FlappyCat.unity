@@ -2702,7 +2702,7 @@ CircleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: -0.19}
+  m_Offset: {x: -0.02, y: -0.19}
   m_Radius: 1.68
 --- !u!50 &1395468637
 Rigidbody2D:
@@ -2775,7 +2775,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 3543618955177837302, guid: 26fe0a76887273a4dac5d9298486773f, type: 3}
+  m_Sprite: {fileID: -653851288984010899, guid: 62728ef71410ebd4f8949229d5cbccdc, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -2855,8 +2855,8 @@ CircleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -1.26, y: 0.65}
-  m_Radius: 0.87
+  m_Offset: {x: -1.4, y: 0.65}
+  m_Radius: 1.08
 --- !u!1 &1455875040
 GameObject:
   m_ObjectHideFlags: 0
@@ -3149,10 +3149,6 @@ MonoBehaviour:
   musicSource: {fileID: 502245545}
   SFXSource: {fileID: 1065795017}
   backround: {fileID: 8300000, guid: bef0cef2ded0f0645ad90c6e5bdd4965, type: 3}
-  backround1: {fileID: 8300000, guid: bef0cef2ded0f0645ad90c6e5bdd4965, type: 3}
-  backround2: {fileID: 8300000, guid: fc5af015011ea3745b7f78ea1dd1049f, type: 3}
-  backround3: {fileID: 8300000, guid: 559c232a43caebe41870ce54786f604e, type: 3}
-  backround4: {fileID: 8300000, guid: 51a4f1157b7ff1449b5e5cf064d584c7, type: 3}
   death: {fileID: 8300000, guid: 7e9ee6dc04a5d40d1a5dfc4beb9865e7, type: 3}
   NomNomCollect: {fileID: 8300000, guid: 52320e590bf774734a288886eba557ba, type: 3}
   touch: {fileID: 8300000, guid: 19f89c6e740e7447f9e12a8310d3e973, type: 3}
