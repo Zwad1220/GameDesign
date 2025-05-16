@@ -18,7 +18,7 @@ public class PlayerMove : MonoBehaviour
     private void Start()
     {
         canMove = true;
-        if (staticData.value == true && staticData2.value == true|| staticData3.value == true)
+        if (staticData.value == true && staticData2.value == true && staticData3.value == true)
         {
             GameComplete.Setup();
         }
