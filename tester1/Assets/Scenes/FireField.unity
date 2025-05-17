@@ -1542,19 +1542,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1b6c9cb8405b759458b592a8834858d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tileUnkown: {fileID: 11400000, guid: ed5836a548777674596411d5c60ad7c0, type: 2}
-  tileEmpty: {fileID: 11400000, guid: 64cf914b93643354f92674b41dd0c78d, type: 2}
+  tileUnkown: {fileID: 11400000, guid: 22e7f4a31fd79444f81772a8659cc6ad, type: 2}
+  tileEmpty: {fileID: 11400000, guid: 464532c2104075843af99a2f674782c8, type: 2}
   tileNomNom: {fileID: 11400000, guid: 9f61442d1aaa66046be2cd20d5275d16, type: 2}
   tileBurnt: {fileID: 11400000, guid: 7a319fb58d23cb148b076985f21de433, type: 2}
-  tileCovered: {fileID: 11400000, guid: 1a73118f690d88a40b7d4ebb030f65fb, type: 2}
-  tileNum1: {fileID: 11400000, guid: d9a0f6cd5b23ef4449c1127c4bdc1d51, type: 2}
-  tileNum2: {fileID: 11400000, guid: 9483d533ffc8ad643b5a7d9570c29433, type: 2}
-  tileNum3: {fileID: 11400000, guid: 72115f3e3112b6d43b1af5be7e920e55, type: 2}
-  tileNum4: {fileID: 11400000, guid: 5ba31d21e0ac40049a215398a99c503a, type: 2}
-  tileNum5: {fileID: 11400000, guid: 808ff9b404e5d0a41b70f77477b21c41, type: 2}
-  tileNum6: {fileID: 11400000, guid: 4fecc82ebacb26a4fa9bd694b7916271, type: 2}
-  tileNum7: {fileID: 11400000, guid: 3316fe64f209edb4fb1557a7af43b2c9, type: 2}
-  tileNum8: {fileID: 11400000, guid: 072332fc88775bd428e81ce166773de1, type: 2}
+  tileCovered: {fileID: 11400000, guid: 4a14234f9481f7441b6daa80e698af2e, type: 2}
+  tileNum1: {fileID: 11400000, guid: 6eda052ed574d1e458c92237a1f7c975, type: 2}
+  tileNum2: {fileID: 11400000, guid: 155a527fbe64e32458960c57cef4cc7f, type: 2}
+  tileNum3: {fileID: 11400000, guid: 9bda13559dcbe3245a6c7b9da43ee81b, type: 2}
+  tileNum4: {fileID: 11400000, guid: 431c7cfdca0f890429ed801d70c7ed05, type: 2}
+  tileNum5: {fileID: 11400000, guid: 86fed90761b2b0c4c95c99e15ff1d6da, type: 2}
+  tileNum6: {fileID: 11400000, guid: 4d2d59ac914fcd248ad20c64cabf5bb3, type: 2}
+  tileNum7: {fileID: 11400000, guid: 445c9718f6ba0854584e37c752a08df2, type: 2}
+  tileNum8: {fileID: 11400000, guid: 2a23af1c5713b8144b14413dc3bf21a8, type: 2}
 --- !u!1 &1015803762
 GameObject:
   m_ObjectHideFlags: 0
