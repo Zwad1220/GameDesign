@@ -6,20 +6,28 @@ public class MineStart : MonoBehaviour
 {
     public TextMeshProUGUI choiceText;
     public MineControls MineControls;
+    
     public void Setup()
     {
         gameObject.SetActive(true);
-
-
     }
 
     public void yesButton()
     {
-        gameObject.SetActive(false);
-        MineControls.Setup();
+        if (choiceText.text != "are you sure you want to stay a cat forever?")
+        {
+            gameObject.SetActive(false);
+            MineControls.Setup();
+        }
+        else gameObject.SetActive(false);
     }
     public void noButton()
     {
-        choiceText.text = "you have no choice, press yes!";
+        if (choiceText.text == "are you sure you want to stay a cat forever?")
+        {
+            gameObject.SetActive(false);
+            MineControls.Setup();
+        }
+        choiceText.text = "are you sure you want to stay a cat forever?";
     }
 }

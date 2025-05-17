@@ -7,8 +7,10 @@ public class Buttons : MonoBehaviour
     public staticData3 staticData3;
     public staticData4 staticData4;
     public LivesScript LivesScript;
+    public AudioManager audioManager;
     private void Start()
     {
+
         staticData.value = false;
         staticData2.value = false;
         staticData3.value = false;

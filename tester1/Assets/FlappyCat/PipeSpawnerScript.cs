@@ -43,7 +43,6 @@ public class PipeSpawnerScript : MonoBehaviour
             Instantiate(Ground, new Vector3(transform.position.x, -13, 0), transform.rotation);
         }
     }
-
     void spawnPipe()
     {
             float lowestPoint = transform.position.y - heightOffset;

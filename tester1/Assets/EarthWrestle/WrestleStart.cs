@@ -13,11 +13,20 @@ public class WrestleStart : MonoBehaviour
 
     public void yesButton()
     {
-        gameObject.SetActive(false);
-        earthControls.Setup();
+        if (choiceText.text != "are you sure you want to stay a cat forever?")
+        {
+            gameObject.SetActive(false);
+            earthControls.Setup();
+        }
+        else gameObject.SetActive(false);
     }
     public void noButton()
     {
-        choiceText.text = "you have no choice, press yes!";
+        if (choiceText.text == "are you sure you want to stay a cat forever?")
+        {
+            gameObject.SetActive(false);
+            earthControls.Setup();
+        }
+        choiceText.text = "are you sure you want to stay a cat forever?";
     }
 }

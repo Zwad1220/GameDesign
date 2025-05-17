@@ -2,6 +2,9 @@ using UnityEngine;
 using System.Collections;
 using TMPro;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
+using Unity.Jobs;
+
 public class StartLevel : MonoBehaviour
 {
     public TextMeshProUGUI choiceText;
@@ -9,17 +12,24 @@ public class StartLevel : MonoBehaviour
     public void Setup()
     {
         gameObject.SetActive(true);
-
-
     }
 
     public void yesButton()
     {
-        gameObject.SetActive(false);
-        Controls.Setup();
+        if (choiceText.text != "are you sure you want to stay a cat forever?")
+        {
+            gameObject.SetActive(false);
+            Controls.Setup();
+        }
+        else gameObject.SetActive(false);
     }
     public void noButton()
     {
-        choiceText.text = "you have no choice, press yes!";
+        if (choiceText.text == "are you sure you want to stay a cat forever?")
+        {
+            gameObject.SetActive(false);
+            Controls.Setup();
+        }
+        choiceText.text = "are you sure you want to stay a cat forever?";
     }
 }
