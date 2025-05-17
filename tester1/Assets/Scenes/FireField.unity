@@ -1826,8 +1826,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sceneBuildIndex: 1
-  GameOverScreen: {fileID: 0}
-  GameWonScreen: {fileID: 0}
+  GameOverScreen: {fileID: 1043101208}
+  GameWonScreen: {fileID: 176562806}
   LevelMove: {fileID: 0}
   Lives: {fileID: 2142908510}
   RestartGame: {fileID: 379520994}

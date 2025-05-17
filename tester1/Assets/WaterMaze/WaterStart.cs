@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 public class WaterStart : MonoBehaviour
 {
     public TextMeshProUGUI choiceText;
-   // public WaterControls waterControls;
+    public WaterControls waterControls;
     public void Setup()
     {
         gameObject.SetActive(true);
@@ -16,7 +16,7 @@ public class WaterStart : MonoBehaviour
     public void yesButton()
     {
         gameObject.SetActive(false);
-       // waterControls.Setup();
+        waterControls.Setup();
     }
     public void noButton()
     {

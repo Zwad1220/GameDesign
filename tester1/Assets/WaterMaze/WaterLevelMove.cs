@@ -5,7 +5,7 @@ public class WaterLevelMove : MonoBehaviour
 {
 
     public WaterStart WaterStart;
-    public CompletedLevel CompletedLevel;
+    public LockDoor lockDoor;
     public staticData staticData;
     public staticData2 staticData2;
     public staticData3 staticData3;
@@ -19,7 +19,7 @@ public class WaterLevelMove : MonoBehaviour
         {
             if (staticData.value != true || staticData2.value != true || staticData3.value != true || staticData4.value != true)
             {
-                if (staticData.value == false)
+                if (staticData4.value == false)
                 {
                     PlayerMove movement = other.GetComponent<PlayerMove>();
                     movement.canMove = false;
@@ -29,7 +29,7 @@ public class WaterLevelMove : MonoBehaviour
                 {
                     PlayerMove movement = other.GetComponent<PlayerMove>();
                     movement.canMove = false;
-                    CompletedLevel.Setup();
+                    lockDoor.Setup();
                 }
             }
             else
