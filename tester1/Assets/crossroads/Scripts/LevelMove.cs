@@ -5,7 +5,6 @@ public class LevelMove : MonoBehaviour
 {
 
     public StartLevel StartLevel;
-    public LockDoor lockDoor;
     public staticData staticData;
     public staticData2 staticData2;
     public staticData3 staticData3;
@@ -29,7 +28,6 @@ public class LevelMove : MonoBehaviour
                 {
                     PlayerMove movement = other.GetComponent<PlayerMove>();
                     movement.canMove = false;
-                    lockDoor.Setup();
                 }
             }
             else

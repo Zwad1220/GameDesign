@@ -9,6 +9,7 @@ TagManager:
   - Audio
   - Logic
   - Pipe
+  - AirCat
   layers:
   - Default
   - TransparentFX

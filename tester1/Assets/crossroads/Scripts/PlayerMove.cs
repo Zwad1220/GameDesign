@@ -10,6 +10,14 @@ public class PlayerMove : MonoBehaviour
     public GameObject Exit;
     Vector2 moveDirection;
     bool right = true;
+    public GameObject airCat;
+    public GameObject fireCat;
+    public GameObject waterCat;
+    public GameObject earthCat;
+    public GameObject airLevelMove;
+    public GameObject fireLevelMove;
+    public GameObject waterLevelMove;
+    public GameObject earthLevelMove;
     public completedGame GameComplete;
     public staticData staticData;
     public staticData2 staticData2;
@@ -19,9 +27,30 @@ public class PlayerMove : MonoBehaviour
     private void Start()
     {
         canMove = true;
+        if (staticData.value == true)
+        {
+            Destroy(airCat);
+            Destroy(airLevelMove);
+        }
+        if (staticData2.value == true)
+        {
+            Destroy(fireCat);
+            Destroy(fireLevelMove);
+        }
+        if (staticData3.value == true)
+        {
+            Destroy(earthCat);
+            Destroy(earthLevelMove);
+        }
+        if (staticData4.value == true)
+        {
+            Destroy(waterCat);
+            Destroy(waterLevelMove);
+        }
         if (staticData.value == true && staticData2.value == true && staticData3.value == true && staticData4.value == true)
         {
             GameComplete.Setup();
+
         }
     }
     void Update()
