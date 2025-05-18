@@ -9,7 +9,7 @@ public class AIChase : MonoBehaviour
     private AIPath path;
     [SerializeField] private float MoveSpeed;
     [SerializeField] private Transform player;
-    private float distance;
+    public float distance;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -20,7 +20,7 @@ public class AIChase : MonoBehaviour
     void Update()
     {
         distance = Vector2.Distance(transform.position, player.transform.position);
-        if (distance < 2.5)
+        if (distance < 3)
         {
             path.maxSpeed = MoveSpeed;
             path.destination = player.transform.position;
