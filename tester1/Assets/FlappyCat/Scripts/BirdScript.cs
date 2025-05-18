@@ -72,7 +72,7 @@ public class BirdScript : MonoBehaviour
             GameObject.Destroy(collision.gameObject);
             BirdIsAlive = true;
         }
-        else
+        else if ((collision.gameObject.CompareTag("Pipe")))
         {
             audioManager.PlaySFX(audioManager.touch);
         }
