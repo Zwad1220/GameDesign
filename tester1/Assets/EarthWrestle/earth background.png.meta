@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 340f64101b7cb9a4fb85990214bf99c0
+guid: 7d3356d81c205794aad66bb296bf86a2
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6782813536761691038
-    second: controls_0
+      213: 6053582978806073139
+    second: earth background_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: controls_0
+      name: earth background_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 655
-        height: 258
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e9b346c89f4612e50800000000000000
-      internalID: 6782813536761691038
+      spriteID: 337461e55a5a20450800000000000000
+      internalID: 6053582978806073139
       vertices: []
       indices: 
       edges: []
@@ -147,8 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      controls_0: 6782813536761691038
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
