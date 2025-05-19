@@ -3,6 +3,7 @@ using UnityEngine;
 public class EarthLevelMove : MonoBehaviour
 {
     public WrestleStart wrestleStart;
+    public GameObject earthDeny;
     public completedGame GameComplete;
     public staticData3 staticData3;
     public staticData2 staticData2;
@@ -19,9 +20,18 @@ public class EarthLevelMove : MonoBehaviour
 
                 if (staticData3.value == false)
                 {
-                    PlayerMove movement = other.GetComponent<PlayerMove>();
-                    movement.canMove = false;
-                    wrestleStart.Setup();
+                    if (staticData.value == true || staticData2.value == true || staticData4.value == true)
+                    {
+                        PlayerMove movement = other.GetComponent<PlayerMove>();
+                        movement.canMove = false;
+                        wrestleStart.Setup();
+                    }
+                    else
+                    {
+                        PlayerMove movement = other.GetComponent<PlayerMove>();
+                        movement.canMove = false;
+                        earthDeny.SetActive(true);
+                    }
                 }
               
             }
