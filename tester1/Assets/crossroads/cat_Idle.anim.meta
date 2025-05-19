@@ -1,9 +1,5 @@
 fileFormatVersion: 2
-<<<<<<<< HEAD:tester1/Assets/FireField/Animations/fire.anim.meta
 guid: ec4c5bb463fc9674390a0e1e8b7ac1c5
-========
-guid: a12e76e48b9f4024ca257467880c22dd
->>>>>>>> 9f6906849b720eae776d21d4de265d580a83ea27:tester1/Assets/crossroads/catIdle.anim.meta
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 7400000
