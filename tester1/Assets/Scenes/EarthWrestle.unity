@@ -422,13 +422,14 @@ GameObject:
   - component: {fileID: 454252230}
   - component: {fileID: 454252229}
   - component: {fileID: 454252228}
+  - component: {fileID: 454252231}
   m_Layer: 5
   m_Name: Exit
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &454252227
 RectTransform:
   m_ObjectHideFlags: 0
@@ -447,7 +448,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: -950.9, y: -561}
   m_SizeDelta: {x: 333.3, y: 97.3}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &454252228
@@ -493,7 +494,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 454252229}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 454252231}
+        m_TargetAssemblyTypeName: button, Assembly-CSharp
+        m_MethodName: buttonClick
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &454252229
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -532,6 +545,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 454252226}
   m_CullTransparentMesh: 1
+--- !u!114 &454252231
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 454252226}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 669fb3b2afd07124bb81decb57b2f232, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &612305960
 GameObject:
   m_ObjectHideFlags: 0
@@ -1288,7 +1313,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1001654442
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1306,7 +1331,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 960, y: 540}
+  m_AnchoredPosition: {x: 960, y: 780.4}
   m_SizeDelta: {x: 1920, y: 1080}
   m_Pivot: {x: 0, y: 0}
 --- !u!114 &1001654443
@@ -2217,6 +2242,7 @@ GameObject:
   - component: {fileID: 1460028568}
   - component: {fileID: 1460028567}
   - component: {fileID: 1460028571}
+  - component: {fileID: 1460028574}
   - component: {fileID: 1460028573}
   - component: {fileID: 1460028572}
   m_Layer: 0
@@ -2356,13 +2382,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f9013467ae7b4094cb342869e296d365, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  staticData3: {fileID: 0}
+  staticData3: {fileID: 1460028574}
   clickRate: {fileID: 745304499}
   clickRequirement: {fileID: 2079719428}
   currentCPS: {fileID: 2066246551}
   beginIn: {fileID: 1537047371}
   nextButton: {fileID: 1768523424}
   LogicScript: {fileID: 1460028572}
+  Exit: {fileID: 1001654441}
+  active: 0
   audioManager: {fileID: 163532134}
   countdownText: {fileID: 1153129235}
 --- !u!114 &1460028572
@@ -2394,6 +2422,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 36a0959b5ba4eeb4e97d50c9791b380f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1460028574
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1460028566}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e65bf80f5715d342ae629c30034b6b5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1537047369

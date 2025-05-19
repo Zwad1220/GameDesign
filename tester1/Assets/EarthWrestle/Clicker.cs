@@ -19,6 +19,8 @@ public class ClickRate : MonoBehaviour
     float currentTime1;
     public GameObject nextButton;
     public LogicScript LogicScript;
+    public GameObject Exit;
+    public bool active = false;
     public AudioManager audioManager;
 
     [SerializeField] Text countdownText;
@@ -70,6 +72,19 @@ public class ClickRate : MonoBehaviour
             clickRate.text = display;
             currentCPS.text = "CPS:";
             beginIn.text = "";
+        }
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            if (active == false)
+            {
+                Exit.SetActive(true);
+                active = true;
+            }
+            else
+            {
+                active = false;
+                Exit.SetActive(false);
+            }
         }
     }
 }
