@@ -24,11 +24,7 @@ public class MineLevelMove : MonoBehaviour
                     movement.canMove = false;
                     MineStart.Setup();
                 }
-                else
-                {
-                    PlayerMove movement = other.GetComponent<PlayerMove>();
-                    movement.canMove = false;
-                }
+              
             }
             else
             {

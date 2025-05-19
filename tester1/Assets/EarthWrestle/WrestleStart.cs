@@ -6,6 +6,7 @@ public class WrestleStart : MonoBehaviour
 {
     public TextMeshProUGUI choiceText;
     public EarthControls earthControls;
+    public regenerateLevels regenerateLevels;
     public void Setup()
     {
         gameObject.SetActive(true);
@@ -19,6 +20,7 @@ public class WrestleStart : MonoBehaviour
             earthControls.Setup();
         }
         else gameObject.SetActive(false);
+        regenerateLevels.disappear();
     }
     public void noButton()
     {

@@ -6,7 +6,8 @@ public class MineStart : MonoBehaviour
 {
     public TextMeshProUGUI choiceText;
     public MineControls MineControls;
-    
+    public regenerateLevels regenerateLevels;
+
     public void Setup()
     {
         gameObject.SetActive(true);
@@ -20,6 +21,7 @@ public class MineStart : MonoBehaviour
             MineControls.Setup();
         }
         else gameObject.SetActive(false);
+        regenerateLevels.disappear();
     }
     public void noButton()
     {

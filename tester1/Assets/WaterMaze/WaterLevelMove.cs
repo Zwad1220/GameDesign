@@ -24,11 +24,7 @@ public class WaterLevelMove : MonoBehaviour
                     movement.canMove = false;
                     WaterStart.Setup();
                 }
-                else
-                {
-                    PlayerMove movement = other.GetComponent<PlayerMove>();
-                    movement.canMove = false;
-                }
+              
             }
             else
             {

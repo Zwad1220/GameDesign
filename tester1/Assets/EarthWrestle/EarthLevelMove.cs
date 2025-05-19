@@ -23,12 +23,7 @@ public class EarthLevelMove : MonoBehaviour
                     movement.canMove = false;
                     wrestleStart.Setup();
                 }
-                else
-                {
-                    PlayerMove movement = other.GetComponent<PlayerMove>();
-                    movement.canMove = false;
-                    //MineComplete.Setup();
-                }
+              
             }
             else
             {

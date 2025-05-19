@@ -9,6 +9,8 @@ public class StartLevel : MonoBehaviour
 {
     public TextMeshProUGUI choiceText;
     public Controls Controls;
+    public regenerateLevels regenerateLevels;
+
     public void Setup()
     {
         gameObject.SetActive(true);
@@ -22,6 +24,7 @@ public class StartLevel : MonoBehaviour
             Controls.Setup();
         }
         else gameObject.SetActive(false);
+        regenerateLevels.disappear();
     }
     public void noButton()
     {
@@ -32,4 +35,7 @@ public class StartLevel : MonoBehaviour
         }
         choiceText.text = "are you sure you want to stay a cat forever?";
     }
+
+
 }
+

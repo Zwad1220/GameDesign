@@ -6,6 +6,7 @@ public class WaterStart : MonoBehaviour
 {
     public TextMeshProUGUI choiceText;
     public WaterControls waterControls;
+    public regenerateLevels regenerateLevels;
     public void Setup()
     {
         gameObject.SetActive(true);
@@ -19,6 +20,7 @@ public class WaterStart : MonoBehaviour
             waterControls.Setup();
         }
         else gameObject.SetActive(false);
+        regenerateLevels.disappear();
     }
     public void noButton()
     {

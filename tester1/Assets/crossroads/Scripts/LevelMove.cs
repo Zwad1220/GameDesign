@@ -24,11 +24,7 @@ public class LevelMove : MonoBehaviour
                     movement.canMove = false;
                     StartLevel.Setup();
                 }
-                else
-                {
-                    PlayerMove movement = other.GetComponent<PlayerMove>();
-                    movement.canMove = false;
-                }
+               
             }
             else
             {

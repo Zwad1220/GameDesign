@@ -18,6 +18,10 @@ public class PlayerMove : MonoBehaviour
     public GameObject fireLevelMove;
     public GameObject waterLevelMove;
     public GameObject earthLevelMove;
+    public GameObject airStone;
+    public GameObject waterStone;
+    public GameObject fireStone;
+    public GameObject earthStone;
     public completedGame GameComplete;
     public staticData staticData;
     public staticData2 staticData2;
@@ -31,21 +35,25 @@ public class PlayerMove : MonoBehaviour
         {
             Destroy(airCat);
             Destroy(airLevelMove);
+            airStone.SetActive(true);
         }
         if (staticData2.value == true)
         {
             Destroy(fireCat);
             Destroy(fireLevelMove);
+            fireStone.SetActive(true);
         }
         if (staticData3.value == true)
         {
             Destroy(earthCat);
             Destroy(earthLevelMove);
+            earthStone.SetActive(true);
         }
         if (staticData4.value == true)
         {
             Destroy(waterCat);
             Destroy(waterLevelMove);
+            waterStone.SetActive(true);
         }
         if (staticData.value == true && staticData2.value == true && staticData3.value == true && staticData4.value == true)
         {

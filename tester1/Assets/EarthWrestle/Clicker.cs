@@ -10,12 +10,15 @@ public class ClickRate : MonoBehaviour
     float lastTime, cps, clickReq = 4f;
     int count = 0;
     bool fail = false, win = false;
+    public staticData3 staticData3;
     string display;
     public Text clickRate;
     public Text clickRequirement;
     public Text currentCPS;
     public Text beginIn;
     float currentTime1;
+    public GameObject nextButton;
+    public LogicScript LogicScript;
     public AudioManager audioManager;
 
     [SerializeField] Text countdownText;
@@ -48,6 +51,8 @@ public class ClickRate : MonoBehaviour
                 {
                     fail = true;
                     display = "failed!";
+                    LogicScript.GameOver();
+                    LogicScript.ReduceLife();
                 }
             }
             if (count == 40 && !fail)
@@ -57,7 +62,9 @@ public class ClickRate : MonoBehaviour
             if (count == 55 && !fail)
             {
                 win = true;
+                staticData3.value = true;
                 display = "You won!";
+                nextButton.SetActive(true);
             }
             clickRequirement.text = "Stay above " + clickReq.ToString() + " CPS:";
             clickRate.text = display;
