@@ -9,11 +9,13 @@ public class StartLevel : MonoBehaviour
 {
     public TextMeshProUGUI choiceText;
     public Controls Controls;
+    public Dialogue dialogue;
     public regenerateLevels regenerateLevels;
 
     public void Setup()
     {
         gameObject.SetActive(true);
+       
     }
 
     public void yesButton()

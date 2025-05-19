@@ -6,6 +6,7 @@ public class WrestleStart : MonoBehaviour
 {
     public TextMeshProUGUI choiceText;
     public EarthControls earthControls;
+
     public regenerateLevels regenerateLevels;
     public void Setup()
     {

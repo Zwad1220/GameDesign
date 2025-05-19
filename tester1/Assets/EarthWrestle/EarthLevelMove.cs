@@ -20,7 +20,7 @@ public class EarthLevelMove : MonoBehaviour
 
                 if (staticData3.value == false)
                 {
-                    if (staticData.value == true || staticData2.value == true || staticData4.value == true)
+                    if (staticData.value == true && staticData2.value == true && staticData4.value == true)
                     {
                         PlayerMove movement = other.GetComponent<PlayerMove>();
                         movement.canMove = false;
