@@ -2853,22 +2853,16 @@ CanvasRenderer:
   m_GameObject: {fileID: 379868056}
   m_CullTransparentMesh: 1
 <<<<<<< HEAD
-<<<<<<< HEAD
 --- !u!43 &385623906
 Mesh:
 =======
 --- !u!1 &433147407
 GameObject:
 >>>>>>> 77c11cdc514979e938566aa269564f351408f68b
-=======
---- !u!1 &433147407
-GameObject:
->>>>>>> f437d222e397e9ab6b3c44b794982fa5a877eabe
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
 <<<<<<< HEAD
   m_Name: 
   serializedVersion: 11
@@ -3030,8 +3024,6 @@ GameObject:
     size: 0
     path: 
 =======
-=======
->>>>>>> f437d222e397e9ab6b3c44b794982fa5a877eabe
   serializedVersion: 6
   m_Component:
   - component: {fileID: 433147408}
@@ -3162,10 +3154,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 433147407}
   m_CullTransparentMesh: 1
-<<<<<<< HEAD
 >>>>>>> 77c11cdc514979e938566aa269564f351408f68b
-=======
->>>>>>> f437d222e397e9ab6b3c44b794982fa5a877eabe
 --- !u!1 &443898309
 GameObject:
   m_ObjectHideFlags: 0
@@ -10583,11 +10572,8 @@ Transform:
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
-<<<<<<< HEAD
 --- !u!114 &825159220
 =======
-=======
->>>>>>> f437d222e397e9ab6b3c44b794982fa5a877eabe
 --- !u!1 &882546653
 GameObject:
   m_ObjectHideFlags: 0
@@ -10629,16 +10615,12 @@ RectTransform:
   m_SizeDelta: {x: 264.7, y: 76.5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &882546655
-<<<<<<< HEAD
 >>>>>>> 77c11cdc514979e938566aa269564f351408f68b
-=======
->>>>>>> f437d222e397e9ab6b3c44b794982fa5a877eabe
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 825159216}
   m_Enabled: 1
@@ -10688,8 +10670,6 @@ MonoBehaviour:
       type: {class: ShadowShape2DProvider_SpriteRenderer, ns: UnityEngine.Rendering.Universal, asm: Unity.RenderPipelines.Universal.2D.Runtime}
       data: 
 =======
-=======
->>>>>>> f437d222e397e9ab6b3c44b794982fa5a877eabe
   m_GameObject: {fileID: 882546653}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -10790,10 +10770,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 882546653}
   m_CullTransparentMesh: 1
-<<<<<<< HEAD
 >>>>>>> 77c11cdc514979e938566aa269564f351408f68b
-=======
->>>>>>> f437d222e397e9ab6b3c44b794982fa5a877eabe
 --- !u!1 &916032556
 GameObject:
   m_ObjectHideFlags: 0
@@ -11552,7 +11529,6 @@ MonoBehaviour:
   - {x: 0.5, y: 0.5, z: 0}
   - {x: -0.5, y: 0.5, z: 0}
 <<<<<<< HEAD
-<<<<<<< HEAD
 --- !u!43 &999523491
 Mesh:
   m_ObjectHideFlags: 0
@@ -11856,8 +11832,6 @@ CanvasRenderer:
   m_CullTransparentMesh: 1
 =======
 >>>>>>> 77c11cdc514979e938566aa269564f351408f68b
-=======
->>>>>>> f437d222e397e9ab6b3c44b794982fa5a877eabe
 --- !u!1 &1038339514
 GameObject:
   m_ObjectHideFlags: 0
@@ -14788,22 +14762,16 @@ MonoBehaviour:
   - {x: 0.5, y: 0.5, z: 0}
   - {x: -0.5, y: 0.5, z: 0}
 <<<<<<< HEAD
-<<<<<<< HEAD
 --- !u!43 &1319727720
 Mesh:
 =======
 --- !u!1 &1368505467
 GameObject:
 >>>>>>> 77c11cdc514979e938566aa269564f351408f68b
-=======
---- !u!1 &1368505467
-GameObject:
->>>>>>> f437d222e397e9ab6b3c44b794982fa5a877eabe
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
 <<<<<<< HEAD
   m_Name: 
   serializedVersion: 11
@@ -14965,8 +14933,6 @@ GameObject:
     size: 0
     path: 
 =======
-=======
->>>>>>> f437d222e397e9ab6b3c44b794982fa5a877eabe
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1368505468}
@@ -15097,10 +15063,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1368505467}
   m_CullTransparentMesh: 1
-<<<<<<< HEAD
 >>>>>>> 77c11cdc514979e938566aa269564f351408f68b
-=======
->>>>>>> f437d222e397e9ab6b3c44b794982fa5a877eabe
 --- !u!1 &1375063070
 GameObject:
   m_ObjectHideFlags: 0
@@ -15180,7 +15143,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1375063070}
   m_CullTransparentMesh: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!43 &1427376015
 Mesh:
@@ -15452,8 +15414,6 @@ Canvas:
   m_TargetDisplay: 0
 =======
 >>>>>>> 77c11cdc514979e938566aa269564f351408f68b
-=======
->>>>>>> f437d222e397e9ab6b3c44b794982fa5a877eabe
 --- !u!1 &1467215583
 GameObject:
   m_ObjectHideFlags: 0
@@ -17110,7 +17070,6 @@ Transform:
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
-<<<<<<< HEAD
 --- !u!114 &1670285904
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17477,8 +17436,6 @@ CanvasRenderer:
   m_CullTransparentMesh: 1
 =======
 >>>>>>> 77c11cdc514979e938566aa269564f351408f68b
-=======
->>>>>>> f437d222e397e9ab6b3c44b794982fa5a877eabe
 --- !u!1 &1747232207
 GameObject:
   m_ObjectHideFlags: 0
@@ -17614,7 +17571,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!114 &1747232211
 MonoBehaviour:
@@ -17807,8 +17763,6 @@ CanvasRenderer:
   m_CullTransparentMesh: 1
 =======
 >>>>>>> 77c11cdc514979e938566aa269564f351408f68b
-=======
->>>>>>> f437d222e397e9ab6b3c44b794982fa5a877eabe
 --- !u!1 &1829295985
 GameObject:
   m_ObjectHideFlags: 0
