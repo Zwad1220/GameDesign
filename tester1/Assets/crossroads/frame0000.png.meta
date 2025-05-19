@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 12b6739def6ebbb43950dd762ffc644a
+guid: d1b440f00ae497145ab479e422549631
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3009909815783223572
-    second: flame0004_0
+      213: -4913982344839117222
+    second: frame0000_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -51,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 16
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -72,10 +72,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 32
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: flame0004_0
+      name: frame0000_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 16
-        height: 16
+        x: 722
+        y: 118
+        width: 3554
+        height: 2658
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cee874048f6aa36d0800000000000000
-      internalID: -3009909815783223572
+      spriteID: a56c25fb7170ecbb0800000000000000
+      internalID: -4913982344839117222
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      flame0004_0: -3009909815783223572
+      frame0000_0: -4913982344839117222
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

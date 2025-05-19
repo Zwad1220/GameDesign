@@ -647,7 +647,28 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Restart Screen_0: -1018333562164113958
+      Restart Screen_1: 8898127765860526675
+      Restart Screen_10: 7716207760599497158
+      Restart Screen_11: -1589966009443638949
+      Restart Screen_12: -3376384880290803501
+      Restart Screen_13: 1248225809243455185
+      Restart Screen_14: -5147034211029390746
+      Restart Screen_15: -2056955134503918199
+      Restart Screen_16: 964300612421179630
+      Restart Screen_17: -7839185150630832547
+      Restart Screen_18: 5275988871650217896
+      Restart Screen_19: -3075141252852687756
+      Restart Screen_2: -4510048000495188842
+      Restart Screen_20: -749986420496222969
+      Restart Screen_3: 8567413292623419911
+      Restart Screen_4: 3086517128769259307
+      Restart Screen_5: -7396917501413637375
+      Restart Screen_6: -7001024231853251402
+      Restart Screen_7: 1075208581521107941
+      Restart Screen_8: 9083302856331695832
+      Restart Screen_9: -1879997894131748060
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
