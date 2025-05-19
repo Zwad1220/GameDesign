@@ -1,3 +1,4 @@
+using TMPro;
 using UnityEngine;
 
 
@@ -17,9 +18,11 @@ public class regenerateLevels : MonoBehaviour
     public staticData4 staticData4;
     public PlayerMove playerMove;
     public GameObject exit;
-    
+    public TextMeshProUGUI choiceText;
+
     public void disappear()
     {
+        choiceText.text = " ";
         playerMove.canMove = true;
         if (staticData.value == false)
         {
