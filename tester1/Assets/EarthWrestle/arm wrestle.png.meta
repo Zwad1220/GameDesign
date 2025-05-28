@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      arm wrestle_0: 4450518423459435776
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

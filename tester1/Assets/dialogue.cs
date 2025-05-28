@@ -29,6 +29,18 @@ public class Dialogue : MonoBehaviour
             buttonY.SetActive(true);
             buttonN.SetActive(true);
         }
+        if (text.text != words[index]&&Input.GetMouseButtonDown(0))
+        {
+
+                StopAllCoroutines();
+                text.text = words[index];
+                buttonY.SetActive(true);
+                buttonN.SetActive(true);
+            
+
+        }
+      
+      
     }
 
     void startSpeech()
@@ -45,6 +57,5 @@ public class Dialogue : MonoBehaviour
             yield return new WaitForSeconds(speed);
         }
     }
-
 
 }

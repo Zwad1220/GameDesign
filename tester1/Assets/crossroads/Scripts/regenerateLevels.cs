@@ -51,11 +51,11 @@ public class regenerateLevels : MonoBehaviour
         if (staticData.value == false)
         {
             airCat.SetActive(true);
-            airLevelMove.SetActive(true); ;
+            airLevelMove.SetActive(true);
         }
         if (staticData2.value == false)
         {
-            fireCat.SetActive(true); ;
+            fireCat.SetActive(true);
             fireLevelMove.SetActive(true); ;
         }
         if (staticData3.value == false)
