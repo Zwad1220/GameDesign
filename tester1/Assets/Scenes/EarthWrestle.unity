@@ -2405,7 +2405,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 390b00adf9be2da49bc72df9036009c7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneBuildIndex: 1
+  sceneBuildIndex: 2
   GameOverScreen: {fileID: 22495083}
   GameWonScreen: {fileID: 0}
   LevelMove: {fileID: 0}
