@@ -21,7 +21,7 @@ public class AIChase : MonoBehaviour
     void Update()
     {
         distance = Vector2.Distance(transform.position, player.transform.position);
-        if (distance < 3)
+        if (distance < 3.5)
         {
             playerMove.moveSpeed = 4;
             path.maxSpeed = MoveSpeed;
