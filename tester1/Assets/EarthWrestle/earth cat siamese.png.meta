@@ -1,0 +1,4732 @@
+fileFormatVersion: 2
+guid: f047d8f4fcfe64d4e986d76816972552
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4795911956406619464
+    second: earth cat siamese_0
+  - first:
+      213: 1549502069416230134
+    second: earth cat siamese_1
+  - first:
+      213: 1798018443161436318
+    second: earth cat siamese_2
+  - first:
+      213: 1631031965264967724
+    second: earth cat siamese_3
+  - first:
+      213: -5953252517050151219
+    second: earth cat siamese_4
+  - first:
+      213: 313364700688565387
+    second: earth cat siamese_5
+  - first:
+      213: 2142980049848823848
+    second: earth cat siamese_6
+  - first:
+      213: -6759777740910720765
+    second: earth cat siamese_7
+  - first:
+      213: -1593518030063227273
+    second: earth cat siamese_8
+  - first:
+      213: 893572163584860524
+    second: earth cat siamese_9
+  - first:
+      213: -2597034201783500829
+    second: earth cat siamese_10
+  - first:
+      213: 2335349854314554397
+    second: earth cat siamese_11
+  - first:
+      213: 4560045855854669823
+    second: earth cat siamese_12
+  - first:
+      213: -5281709047165659729
+    second: earth cat siamese_13
+  - first:
+      213: -4596023409148528383
+    second: earth cat siamese_14
+  - first:
+      213: -238673329033913247
+    second: earth cat siamese_15
+  - first:
+      213: -4432735080661311028
+    second: earth cat siamese_16
+  - first:
+      213: 4106950658180475937
+    second: earth cat siamese_17
+  - first:
+      213: 7045766172636044156
+    second: earth cat siamese_18
+  - first:
+      213: 4683051060253933360
+    second: earth cat siamese_19
+  - first:
+      213: 2979563652635668382
+    second: earth cat siamese_20
+  - first:
+      213: -1263297176230359047
+    second: earth cat siamese_21
+  - first:
+      213: 7509510792138091136
+    second: earth cat siamese_22
+  - first:
+      213: -7053504778778645440
+    second: earth cat siamese_23
+  - first:
+      213: 7837644273241883374
+    second: earth cat siamese_24
+  - first:
+      213: 6043657216113836468
+    second: earth cat siamese_25
+  - first:
+      213: 3578827514837981457
+    second: earth cat siamese_26
+  - first:
+      213: 2341333334111022970
+    second: earth cat siamese_27
+  - first:
+      213: -3049406216540725953
+    second: earth cat siamese_28
+  - first:
+      213: 4905556160112883280
+    second: earth cat siamese_29
+  - first:
+      213: 7149407243800879555
+    second: earth cat siamese_30
+  - first:
+      213: -507418676454474214
+    second: earth cat siamese_31
+  - first:
+      213: -8675567097426993786
+    second: earth cat siamese_32
+  - first:
+      213: 6683770224592497975
+    second: earth cat siamese_33
+  - first:
+      213: 5208123874487953964
+    second: earth cat siamese_34
+  - first:
+      213: -8568563034744668933
+    second: earth cat siamese_35
+  - first:
+      213: 6735257509698660893
+    second: earth cat siamese_36
+  - first:
+      213: -7574491743741634293
+    second: earth cat siamese_37
+  - first:
+      213: 4453641250266973441
+    second: earth cat siamese_38
+  - first:
+      213: 6349233826961012707
+    second: earth cat siamese_39
+  - first:
+      213: -2580763133759908424
+    second: earth cat siamese_40
+  - first:
+      213: 2962893037278518192
+    second: earth cat siamese_41
+  - first:
+      213: 5586501051133324864
+    second: earth cat siamese_42
+  - first:
+      213: -8765597026645942183
+    second: earth cat siamese_43
+  - first:
+      213: -6079574351984251487
+    second: earth cat siamese_44
+  - first:
+      213: 8978863477168773870
+    second: earth cat siamese_45
+  - first:
+      213: 6491626135483936013
+    second: earth cat siamese_46
+  - first:
+      213: 1023095575752316436
+    second: earth cat siamese_47
+  - first:
+      213: 635563724988656731
+    second: earth cat siamese_48
+  - first:
+      213: -2479857002529679887
+    second: earth cat siamese_49
+  - first:
+      213: -3759464560710268290
+    second: earth cat siamese_50
+  - first:
+      213: 3744769941752869810
+    second: earth cat siamese_51
+  - first:
+      213: -2981678728080076135
+    second: earth cat siamese_52
+  - first:
+      213: 8288587078954638660
+    second: earth cat siamese_53
+  - first:
+      213: -6944841061221941305
+    second: earth cat siamese_54
+  - first:
+      213: 6244745867897434391
+    second: earth cat siamese_55
+  - first:
+      213: 1266721890288004823
+    second: earth cat siamese_56
+  - first:
+      213: 6413167539429835643
+    second: earth cat siamese_57
+  - first:
+      213: -7002627619589047661
+    second: earth cat siamese_58
+  - first:
+      213: 9178522819513893390
+    second: earth cat siamese_59
+  - first:
+      213: 4609584310319840562
+    second: earth cat siamese_60
+  - first:
+      213: 4056215326051808956
+    second: earth cat siamese_61
+  - first:
+      213: 3740403251313686013
+    second: earth cat siamese_62
+  - first:
+      213: -2446141378923716393
+    second: earth cat siamese_63
+  - first:
+      213: -6680796252079664243
+    second: earth cat siamese_64
+  - first:
+      213: -6649297839595387492
+    second: earth cat siamese_65
+  - first:
+      213: 2787883611473595387
+    second: earth cat siamese_66
+  - first:
+      213: 6428642304385198662
+    second: earth cat siamese_67
+  - first:
+      213: -5393112753812989650
+    second: earth cat siamese_68
+  - first:
+      213: 5988577053319506741
+    second: earth cat siamese_69
+  - first:
+      213: 4588426658131170227
+    second: earth cat siamese_70
+  - first:
+      213: 3329535186940272286
+    second: earth cat siamese_71
+  - first:
+      213: -3403371802664114394
+    second: earth cat siamese_72
+  - first:
+      213: 7314979361825647087
+    second: earth cat siamese_73
+  - first:
+      213: -3750053324370203105
+    second: earth cat siamese_74
+  - first:
+      213: -1870254655741859506
+    second: earth cat siamese_75
+  - first:
+      213: 7913133286994517726
+    second: earth cat siamese_76
+  - first:
+      213: -5536240167973894544
+    second: earth cat siamese_77
+  - first:
+      213: -2202989574442612029
+    second: earth cat siamese_78
+  - first:
+      213: -4816371913583791683
+    second: earth cat siamese_79
+  - first:
+      213: 3603336910164367238
+    second: earth cat siamese_80
+  - first:
+      213: -6461288704777154328
+    second: earth cat siamese_81
+  - first:
+      213: -2469506528563163529
+    second: earth cat siamese_82
+  - first:
+      213: -4386250168538886913
+    second: earth cat siamese_83
+  - first:
+      213: -8250407801151261233
+    second: earth cat siamese_84
+  - first:
+      213: 1190714224468505497
+    second: earth cat siamese_85
+  - first:
+      213: -5563391245037697788
+    second: earth cat siamese_86
+  - first:
+      213: -5446251622797082557
+    second: earth cat siamese_87
+  - first:
+      213: 724086319534972519
+    second: earth cat siamese_88
+  - first:
+      213: -982234748343390079
+    second: earth cat siamese_89
+  - first:
+      213: 6065815936706676178
+    second: earth cat siamese_90
+  - first:
+      213: -8379064159800037773
+    second: earth cat siamese_91
+  - first:
+      213: 2800307478852046471
+    second: earth cat siamese_92
+  - first:
+      213: -6369679616818007025
+    second: earth cat siamese_93
+  - first:
+      213: -5377806842846302878
+    second: earth cat siamese_94
+  - first:
+      213: -4325189447727521359
+    second: earth cat siamese_95
+  - first:
+      213: 2714658132940476816
+    second: earth cat siamese_96
+  - first:
+      213: -9172077601338386087
+    second: earth cat siamese_97
+  - first:
+      213: 8534323297065751704
+    second: earth cat siamese_98
+  - first:
+      213: 1161311485255201069
+    second: earth cat siamese_99
+  - first:
+      213: -6706136429035575341
+    second: earth cat siamese_100
+  - first:
+      213: 6756590024396453406
+    second: earth cat siamese_101
+  - first:
+      213: 8454457251766220954
+    second: earth cat siamese_102
+  - first:
+      213: 4184484974555887609
+    second: earth cat siamese_103
+  - first:
+      213: 979039852503067928
+    second: earth cat siamese_104
+  - first:
+      213: -6712214297069256110
+    second: earth cat siamese_105
+  - first:
+      213: -5037285214177026410
+    second: earth cat siamese_106
+  - first:
+      213: -2950287870403994742
+    second: earth cat siamese_107
+  - first:
+      213: -319631507544703276
+    second: earth cat siamese_108
+  - first:
+      213: -4864289032236414416
+    second: earth cat siamese_109
+  - first:
+      213: -1056954639086108651
+    second: earth cat siamese_110
+  - first:
+      213: 7574807497857342458
+    second: earth cat siamese_111
+  - first:
+      213: 8443256598882140869
+    second: earth cat siamese_112
+  - first:
+      213: 3566765041990208800
+    second: earth cat siamese_113
+  - first:
+      213: 1677190212720772319
+    second: earth cat siamese_114
+  - first:
+      213: -8319450186572395082
+    second: earth cat siamese_115
+  - first:
+      213: 3512365868742204004
+    second: earth cat siamese_116
+  - first:
+      213: 7199888599210167207
+    second: earth cat siamese_117
+  - first:
+      213: -1187622244639748757
+    second: earth cat siamese_118
+  - first:
+      213: 4667867991230879668
+    second: earth cat siamese_119
+  - first:
+      213: 1176337730522962746
+    second: earth cat siamese_120
+  - first:
+      213: -712267197916610736
+    second: earth cat siamese_121
+  - first:
+      213: 8649163775222636174
+    second: earth cat siamese_122
+  - first:
+      213: -5168188981577272546
+    second: earth cat siamese_123
+  - first:
+      213: -5304759113070199280
+    second: earth cat siamese_124
+  - first:
+      213: 3751283406375420423
+    second: earth cat siamese_125
+  - first:
+      213: -929476472383942671
+    second: earth cat siamese_126
+  - first:
+      213: -5270351070596795963
+    second: earth cat siamese_127
+  - first:
+      213: -5843599698696893536
+    second: earth cat siamese_128
+  - first:
+      213: -1015883597932672734
+    second: earth cat siamese_129
+  - first:
+      213: 8956784748565043599
+    second: earth cat siamese_130
+  - first:
+      213: 7073546690204182103
+    second: earth cat siamese_131
+  - first:
+      213: 7758248111173286406
+    second: earth cat siamese_132
+  - first:
+      213: -4091501653383242853
+    second: earth cat siamese_133
+  - first:
+      213: -6602601433618379995
+    second: earth cat siamese_134
+  - first:
+      213: 3458907968277745539
+    second: earth cat siamese_135
+  - first:
+      213: 4592462237645695279
+    second: earth cat siamese_136
+  - first:
+      213: 687064549995373832
+    second: earth cat siamese_137
+  - first:
+      213: 2994182946374098734
+    second: earth cat siamese_138
+  - first:
+      213: -4674108201068989944
+    second: earth cat siamese_139
+  - first:
+      213: -2931594324044241423
+    second: earth cat siamese_140
+  - first:
+      213: -1186860162135346032
+    second: earth cat siamese_141
+  - first:
+      213: -6381550951949765018
+    second: earth cat siamese_142
+  - first:
+      213: -4030615856645937870
+    second: earth cat siamese_143
+  - first:
+      213: -6505505067400713604
+    second: earth cat siamese_144
+  - first:
+      213: -1044447678076315909
+    second: earth cat siamese_145
+  - first:
+      213: 6506056907170969995
+    second: earth cat siamese_146
+  - first:
+      213: 2321289669338924177
+    second: earth cat siamese_147
+  - first:
+      213: 1130772792470078798
+    second: earth cat siamese_148
+  - first:
+      213: 232358960778840891
+    second: earth cat siamese_149
+  - first:
+      213: -5000176157032815996
+    second: earth cat siamese_150
+  - first:
+      213: 165214245547292688
+    second: earth cat siamese_151
+  - first:
+      213: -4637895331455571069
+    second: earth cat siamese_152
+  - first:
+      213: 1270205711904872610
+    second: earth cat siamese_153
+  - first:
+      213: 4610319510203889268
+    second: earth cat siamese_154
+  - first:
+      213: -3674695643855229814
+    second: earth cat siamese_155
+  - first:
+      213: -3743155245794269590
+    second: earth cat siamese_156
+  - first:
+      213: -7571987615712060276
+    second: earth cat siamese_157
+  - first:
+      213: 6562444453304203683
+    second: earth cat siamese_158
+  - first:
+      213: 4015365019643182827
+    second: earth cat siamese_159
+  - first:
+      213: -9023542499568400415
+    second: earth cat siamese_160
+  - first:
+      213: 4603358861754941650
+    second: earth cat siamese_161
+  - first:
+      213: 42758343793648681
+    second: earth cat siamese_162
+  - first:
+      213: 6289676785769282917
+    second: earth cat siamese_163
+  - first:
+      213: 1818660230216895050
+    second: earth cat siamese_164
+  - first:
+      213: 586641889634024802
+    second: earth cat siamese_165
+  - first:
+      213: 8391840962947447926
+    second: earth cat siamese_166
+  - first:
+      213: -1322610536398908985
+    second: earth cat siamese_167
+  - first:
+      213: 2658082257738062407
+    second: earth cat siamese_168
+  - first:
+      213: -6835615736773885583
+    second: earth cat siamese_169
+  - first:
+      213: 4668257475906106323
+    second: earth cat siamese_170
+  - first:
+      213: 6905407599438681188
+    second: earth cat siamese_171
+  - first:
+      213: -5138632860195446449
+    second: earth cat siamese_172
+  - first:
+      213: -5443790864673934000
+    second: earth cat siamese_173
+  - first:
+      213: 7364958173297726687
+    second: earth cat siamese_174
+  - first:
+      213: 2689942672398893964
+    second: earth cat siamese_175
+  - first:
+      213: 2948547574676861527
+    second: earth cat siamese_176
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: earth cat siamese_0
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1015
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d4aa7b3808e8240800000000000000
+      internalID: 4795911956406619464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_1
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1012
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc794a2cefe08510800000000000000
+      internalID: 1549502069416230134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_2
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1018
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e900d3c6f38d3f810800000000000000
+      internalID: 1798018443161436318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_3
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1017
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28fcea4ee692a610800000000000000
+      internalID: 1631031965264967724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_4
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1014
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce860f906cc16da0800000000000000
+      internalID: -5953252517050151219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_5
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1018
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8440b5f88b495400800000000000000
+      internalID: 313364700688565387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_6
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1012
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820fcf750056dbd10800000000000000
+      internalID: 2142980049848823848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_7
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1015
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3098c60a5f17032a0800000000000000
+      internalID: -6759777740910720765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_8
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1012
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ea6e26bcfa2e9e0800000000000000
+      internalID: -1593518030063227273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_9
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1011
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6127aff52b966c00800000000000000
+      internalID: 893572163584860524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_10
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1011
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef7725372b75fbd0800000000000000
+      internalID: -2597034201783500829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_11
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1012
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14edacb154d86020800000000000000
+      internalID: 2335349854314554397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_12
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1017
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fffa5b5bb89884f30800000000000000
+      internalID: 4560045855854669823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_13
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1015
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa559b4fa9993b6b0800000000000000
+      internalID: -5281709047165659729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_14
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 1011
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10972566f05a730c0800000000000000
+      internalID: -4596023409148528383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_15
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1009
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16cd29d2fdf00bcf0800000000000000
+      internalID: -238673329033913247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_16
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1003
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc125c50ee2cb72c0800000000000000
+      internalID: -4432735080661311028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_17
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1003
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c67e23dd1def830800000000000000
+      internalID: 4106950658180475937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_18
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1003
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b5f62010797c160800000000000000
+      internalID: 7045766172636044156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_19
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1006
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03fb37f902a8df040800000000000000
+      internalID: 4683051060253933360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_20
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1003
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9fa30d0b59895920800000000000000
+      internalID: 2979563652635668382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_21
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1002
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff090559edd77ee0800000000000000
+      internalID: -1263297176230359047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_22
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1005
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a6a524744273860800000000000000
+      internalID: 7509510792138091136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_23
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1003
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ce06756caec1e90800000000000000
+      internalID: -7053504778778645440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_24
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1003
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2057ed0f7e4cc60800000000000000
+      internalID: 7837644273241883374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_25
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 1003
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b101b6a7326fd350800000000000000
+      internalID: 6043657216113836468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_26
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 994
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119df4ec9ac8aa130800000000000000
+      internalID: 3578827514837981457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_27
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 994
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fe77033461e7020800000000000000
+      internalID: 2341333334111022970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_28
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 994
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3dd837d3355ea5d0800000000000000
+      internalID: -3049406216540725953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_29
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 999
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056f14d3659041440800000000000000
+      internalID: 4905556160112883280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_30
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 994
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c12b51520cc73360800000000000000
+      internalID: 7149407243800879555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_31
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 999
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e3885f66945f8f0800000000000000
+      internalID: -507418676454474214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_32
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 994
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d1cc4a0b13a9780800000000000000
+      internalID: -8675567097426993786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_33
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 994
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d2b2d6b9581cc50800000000000000
+      internalID: 6683770224592497975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_34
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 994
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ae51de119f64840800000000000000
+      internalID: 5208123874487953964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_35
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 994
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc308e6159561980800000000000000
+      internalID: -8568563034744668933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_36
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 994
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1aee582501787d50800000000000000
+      internalID: 6735257509698660893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_37
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 994
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b099624f3eff1e690800000000000000
+      internalID: -7574491743741634293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_38
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 995
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1058037ee138ecd30800000000000000
+      internalID: 4453641250266973441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 985
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7b7e3a6820d1850800000000000000
+      internalID: 6349233826961012707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_40
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 985
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b511d27a994f2cd0800000000000000
+      internalID: -2580763133759908424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_41
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 985
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bbd672f48f4e1920800000000000000
+      internalID: 2962893037278518192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_42
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 985
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ee5228b1d378d40800000000000000
+      internalID: 5586501051133324864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_43
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 985
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9506c8642f75a5680800000000000000
+      internalID: -8765597026645942183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_44
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 985
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad276c765301aba0800000000000000
+      internalID: -6079574351984251487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_45
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 985
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea9f5ba2c45b9c70800000000000000
+      internalID: 8978863477168773870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_46
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 985
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d692c7393e61a50800000000000000
+      internalID: 6491626135483936013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_47
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 984
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4169dfb6104c23e00800000000000000
+      internalID: 1023095575752316436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_48
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 985
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ca21c27d9f1d800800000000000000
+      internalID: 635563724988656731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_49
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 985
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5147ee137c59dd0800000000000000
+      internalID: -2479857002529679887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_50
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 987
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ac13986e2b3dbc0800000000000000
+      internalID: -3759464560710268290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_51
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 991
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b37dbfdb6818f330800000000000000
+      internalID: 3744769941752869810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_52
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 985
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992d2729ef2fe96d0800000000000000
+      internalID: -2981678728080076135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_53
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 985
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ddbf2980af60370800000000000000
+      internalID: 8288587078954638660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_54
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 988
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cfb154a9d7fe9f90800000000000000
+      internalID: -6944841061221941305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_55
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 981
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7117d90e74bc9a650800000000000000
+      internalID: 6244745867897434391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_56
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 985
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dee3db09dc449110800000000000000
+      internalID: 1266721890288004823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_57
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 985
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7308c016e5200950800000000000000
+      internalID: 6413167539429835643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_58
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 985
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a3e00184ba1de90800000000000000
+      internalID: -7002627619589047661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_59
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 985
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0241fbdfd9a06f70800000000000000
+      internalID: 9178522819513893390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_60
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 985
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23df3d2f18888ff30800000000000000
+      internalID: 4609584310319840562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 979
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb630d929529a4830800000000000000
+      internalID: 4056215326051808956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_62
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 977
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5b44780f498e330800000000000000
+      internalID: 3740403251313686013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_63
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 977
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d02ed6406f8d0ed0800000000000000
+      internalID: -2446141378923716393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_64
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 977
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83d702843b0943a0800000000000000
+      internalID: -6680796252079664243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_65
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 976
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95052928d2f8b3a0800000000000000
+      internalID: -6649297839595387492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_66
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 976
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb4401bf5d80b620800000000000000
+      internalID: 2787883611473595387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_67
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 977
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64aadec8d10273950800000000000000
+      internalID: 6428642304385198662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_68
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 981
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29195b3680d725b0800000000000000
+      internalID: -5393112753812989650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_69
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 981
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b2a25e913bb1350800000000000000
+      internalID: 5988577053319506741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_70
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 979
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b357db2cbd5daf30800000000000000
+      internalID: 4588426658131170227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_71
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 967
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e1db4ac92e43e20800000000000000
+      internalID: 3329535186940272286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_72
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 971
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627ef97906bc4c0d0800000000000000
+      internalID: -3403371802664114394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_73
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 0
+        width: 931
+        height: 973
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe96ee029f6048560800000000000000
+      internalID: 7314979361825647087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_74
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 967
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e2420ce5225fbc0800000000000000
+      internalID: -3750053324370203105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_75
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 971
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e496cf4bc458b06e0800000000000000
+      internalID: -1870254655741859506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_76
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 967
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede90a78cc811dd60800000000000000
+      internalID: 7913133286994517726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_77
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 967
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 076caa446e25b23b0800000000000000
+      internalID: -5536240167973894544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_78
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 969
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca857b67a86d61e0800000000000000
+      internalID: -2202989574442612029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_79
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 967
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db17ba8434fc82db0800000000000000
+      internalID: -4816371913583791683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_80
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 972
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687966814df910230800000000000000
+      internalID: 3603336910164367238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_81
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 963
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e093880824e456a0800000000000000
+      internalID: -6461288704777154328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_82
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 967
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e0c7275ec8abdd0800000000000000
+      internalID: -2469506528563163529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_83
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 968
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc0e3806b8e023c0800000000000000
+      internalID: -4386250168538886913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_84
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 947
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5744041d9a08d80800000000000000
+      internalID: -8250407801151261233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 931
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993337a4744468010800000000000000
+      internalID: 1190714224468505497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_86
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 923
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4058205832ddac2b0800000000000000
+      internalID: -5563391245037697788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_87
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 904
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34009c921070b64b0800000000000000
+      internalID: -5446251622797082557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_88
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 893
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e1a96dba87c0a00800000000000000
+      internalID: 724086319534972519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 884
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18072f253b66e52f0800000000000000
+      internalID: -982234748343390079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_90
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 884
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d50e44d47b1e2450800000000000000
+      internalID: 6065815936706676178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_91
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 878
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e69e47a8597bb80800000000000000
+      internalID: -8379064159800037773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_92
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 880
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e88dab0d0bcd620800000000000000
+      internalID: 2800307478852046471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_93
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 875
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f043482f22a5a97a0800000000000000
+      internalID: -6369679616818007025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_94
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 859
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d2b755b213e55b0800000000000000
+      internalID: -5377806842846302878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_95
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 859
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1eee5fc17d9f3c0800000000000000
+      internalID: -4325189447727521359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_96
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 865
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091da8460376ca520800000000000000
+      internalID: 2714658132940476816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_97
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 831
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95998ef640c36b080800000000000000
+      internalID: -9172077601338386087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_98
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 829
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894d1f762d1007670800000000000000
+      internalID: 8534323297065751704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_99
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 811
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21b73894aecd1010800000000000000
+      internalID: 1161311485255201069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_100
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 813
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7270cc2740fe2a0800000000000000
+      internalID: -6706136429035575341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_101
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 811
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16391944da34cd50800000000000000
+      internalID: 6756590024396453406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_102
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 804
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98304ca314445570800000000000000
+      internalID: 8454457251766220954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 786
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7fc5cf9e6421a30800000000000000
+      internalID: 4184484974555887609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_104
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 769
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d65650f8f369d00800000000000000
+      internalID: 979039852503067928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_105
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 769
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25283eed8ac69d2a0800000000000000
+      internalID: -6712214297069256110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_106
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 752
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e96a059c7f71ab0800000000000000
+      internalID: -5037285214177026410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_107
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 720
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b1d6b20d87e07d0800000000000000
+      internalID: -2950287870403994742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_108
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 720
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de76cd56d0709bf0800000000000000
+      internalID: -319631507544703276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_109
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 715
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a48b4b5e29e7cb0800000000000000
+      internalID: -4864289032236414416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_110
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 694
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51042911b51f451f0800000000000000
+      internalID: -1056954639086108651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_111
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 703
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb90c7494f1f1960800000000000000
+      internalID: 7574807497857342458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_112
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 686
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2c7d374297c2570800000000000000
+      internalID: 8443256598882140869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_113
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 652
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d8b1d78e1bf7130800000000000000
+      internalID: 3566765041990208800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_114
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 657
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4cbf1cc93964710800000000000000
+      internalID: 1677190212720772319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_115
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 626
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd8bc632206b8c80800000000000000
+      internalID: -8319450186572395082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_116
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 611
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ad597f52e6eb030800000000000000
+      internalID: 3512365868742204004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_117
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 585
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab8e4ac8842be360800000000000000
+      internalID: 7199888599210167207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_118
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 574
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d45ec5cd7b48fe0800000000000000
+      internalID: -1187622244639748757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_119
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 557
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b79bb3e43997c040800000000000000
+      internalID: 4667867991230879668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_120
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 530
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3bd5b3fee0335010800000000000000
+      internalID: 1176337730522962746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_121
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 528
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f740bd1c48d16f0800000000000000
+      internalID: -712267197916610736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_122
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 512
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e525ad0a0080870800000000000000
+      internalID: 8649163775222636174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_123
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 495
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13bff4e087e648b0800000000000000
+      internalID: -5168188981577272546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_124
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 496
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e3f6641b5b166b0800000000000000
+      internalID: -5304759113070199280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_125
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 470
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70203d8026c3f0430800000000000000
+      internalID: 3751283406375420423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 447
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffc87ca216d913f0800000000000000
+      internalID: -929476472383942671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_127
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 459
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c17a73ff93fbd6b0800000000000000
+      internalID: -5270351070596795963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_128
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 454
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab8795e80d57eea0800000000000000
+      internalID: -5843599698696893536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_129
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 442
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 229c314004bd6e1f0800000000000000
+      internalID: -1015883597932672734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_130
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 434
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f891bd31644ec4c70800000000000000
+      internalID: 8956784748565043599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_131
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 403
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756a2cbcc394a2260800000000000000
+      internalID: 7073546690204182103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_132
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 376
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a34d95d85daab60800000000000000
+      internalID: 7758248111173286406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_133
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 353
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b1b288ce01837c0800000000000000
+      internalID: -4091501653383242853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_134
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 344
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b01bb6af8de54a0800000000000000
+      internalID: -6602601433618379995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_135
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 335
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f86f79872800030800000000000000
+      internalID: 3458907968277745539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_136
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 318
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29644fb214bbbf30800000000000000
+      internalID: 4592462237645695279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_137
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 317
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805ec386191f88900800000000000000
+      internalID: 687064549995373832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_138
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 322
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f192f96897d8920800000000000000
+      internalID: 2994182946374098734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_139
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 305
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802fa890b5b322fb0800000000000000
+      internalID: -4674108201068989944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_140
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 286
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5aac99e72e057d0800000000000000
+      internalID: -2931594324044241423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_141
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 284
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0943cd588fc678fe0800000000000000
+      internalID: -1186860162135346032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_142
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 281
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6667af8583d2077a0800000000000000
+      internalID: -6381550951949765018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_143
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 274
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235ef86cb306018c0800000000000000
+      internalID: -4030615856645937870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_144
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 272
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7aa31ddb9dc7b5a0800000000000000
+      internalID: -6505505067400713604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_145
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 232
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf697c9de506181f0800000000000000
+      internalID: -1044447678076315909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_146
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 238
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89f66859482a4a50800000000000000
+      internalID: 6506056907170969995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_147
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 232
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1940bb1d7a0e63020800000000000000
+      internalID: 2321289669338924177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_148
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 204
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e450bd81ddf41bf00800000000000000
+      internalID: 1130772792470078798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_149
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 204
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b0a956e31893300800000000000000
+      internalID: 232358960778840891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_150
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 205
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4826ea9f64ecb9ab0800000000000000
+      internalID: -5000176157032815996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_151
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 204
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0183ea12b75fa4200800000000000000
+      internalID: 165214245547292688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_152
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 195
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38be527c4c2e2afb0800000000000000
+      internalID: -4637895331455571069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_153
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 195
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a813c97d5da0a110800000000000000
+      internalID: 1270205711904872610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_154
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 142
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47671c20b252bff30800000000000000
+      internalID: 4610319510203889268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_155
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 131
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c655208cbd00dc0800000000000000
+      internalID: -3674695643855229814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_156
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 122
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66ea43d224ad0cc0800000000000000
+      internalID: -3743155245794269590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_157
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 111
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c53d1b165eae690800000000000000
+      internalID: -7571987615712060276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_158
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 102
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9fd61067c721b50800000000000000
+      internalID: 6562444453304203683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_159
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 96
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee7c57063179b730800000000000000
+      internalID: 4015365019643182827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_160
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 96
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7c599c7efe5c280800000000000000
+      internalID: -9023542499568400415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_161
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 96
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0cc80ce7a62ef30800000000000000
+      internalID: 4603358861754941650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_162
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 89
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9242105bc78e79000800000000000000
+      internalID: 42758343793648681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_163
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 88
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d7cc766bb694750800000000000000
+      internalID: 6289676785769282917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_164
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 81
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a453df7dd2d3910800000000000000
+      internalID: 1818660230216895050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_165
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 75
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26dfff1c0bb242800800000000000000
+      internalID: 586641889634024802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_166
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 57
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67cfd08d4eec57470800000000000000
+      internalID: 8391840962947447926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_167
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 59
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c111c189b425ade0800000000000000
+      internalID: -1322610536398908985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_168
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 59
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ade34fab763e420800000000000000
+      internalID: 2658082257738062407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_169
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 49
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171c58c34b30321a0800000000000000
+      internalID: -6835615736773885583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_170
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 49
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3f17bd07bf8c040800000000000000
+      internalID: 4668257475906106323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_171
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 31
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46453d110afe4df50800000000000000
+      internalID: 6905407599438681188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_172
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 21
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41a6e8a3a8efa8b0800000000000000
+      internalID: -5138632860195446449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_173
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 6
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055f79f0d05c374b0800000000000000
+      internalID: -5443790864673934000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_174
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 13
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd45509ff66953660800000000000000
+      internalID: 7364958173297726687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_175
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83408ecb98945520800000000000000
+      internalID: 2689942672398893964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth cat siamese_176
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75234f7a5685be820800000000000000
+      internalID: 2948547574676861527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      earth cat siamese_0: 4795911956406619464
+      earth cat siamese_1: 1549502069416230134
+      earth cat siamese_10: -2597034201783500829
+      earth cat siamese_100: -6706136429035575341
+      earth cat siamese_101: 6756590024396453406
+      earth cat siamese_102: 8454457251766220954
+      earth cat siamese_103: 4184484974555887609
+      earth cat siamese_104: 979039852503067928
+      earth cat siamese_105: -6712214297069256110
+      earth cat siamese_106: -5037285214177026410
+      earth cat siamese_107: -2950287870403994742
+      earth cat siamese_108: -319631507544703276
+      earth cat siamese_109: -4864289032236414416
+      earth cat siamese_11: 2335349854314554397
+      earth cat siamese_110: -1056954639086108651
+      earth cat siamese_111: 7574807497857342458
+      earth cat siamese_112: 8443256598882140869
+      earth cat siamese_113: 3566765041990208800
+      earth cat siamese_114: 1677190212720772319
+      earth cat siamese_115: -8319450186572395082
+      earth cat siamese_116: 3512365868742204004
+      earth cat siamese_117: 7199888599210167207
+      earth cat siamese_118: -1187622244639748757
+      earth cat siamese_119: 4667867991230879668
+      earth cat siamese_12: 4560045855854669823
+      earth cat siamese_120: 1176337730522962746
+      earth cat siamese_121: -712267197916610736
+      earth cat siamese_122: 8649163775222636174
+      earth cat siamese_123: -5168188981577272546
+      earth cat siamese_124: -5304759113070199280
+      earth cat siamese_125: 3751283406375420423
+      earth cat siamese_126: -929476472383942671
+      earth cat siamese_127: -5270351070596795963
+      earth cat siamese_128: -5843599698696893536
+      earth cat siamese_129: -1015883597932672734
+      earth cat siamese_13: -5281709047165659729
+      earth cat siamese_130: 8956784748565043599
+      earth cat siamese_131: 7073546690204182103
+      earth cat siamese_132: 7758248111173286406
+      earth cat siamese_133: -4091501653383242853
+      earth cat siamese_134: -6602601433618379995
+      earth cat siamese_135: 3458907968277745539
+      earth cat siamese_136: 4592462237645695279
+      earth cat siamese_137: 687064549995373832
+      earth cat siamese_138: 2994182946374098734
+      earth cat siamese_139: -4674108201068989944
+      earth cat siamese_14: -4596023409148528383
+      earth cat siamese_140: -2931594324044241423
+      earth cat siamese_141: -1186860162135346032
+      earth cat siamese_142: -6381550951949765018
+      earth cat siamese_143: -4030615856645937870
+      earth cat siamese_144: -6505505067400713604
+      earth cat siamese_145: -1044447678076315909
+      earth cat siamese_146: 6506056907170969995
+      earth cat siamese_147: 2321289669338924177
+      earth cat siamese_148: 1130772792470078798
+      earth cat siamese_149: 232358960778840891
+      earth cat siamese_15: -238673329033913247
+      earth cat siamese_150: -5000176157032815996
+      earth cat siamese_151: 165214245547292688
+      earth cat siamese_152: -4637895331455571069
+      earth cat siamese_153: 1270205711904872610
+      earth cat siamese_154: 4610319510203889268
+      earth cat siamese_155: -3674695643855229814
+      earth cat siamese_156: -3743155245794269590
+      earth cat siamese_157: -7571987615712060276
+      earth cat siamese_158: 6562444453304203683
+      earth cat siamese_159: 4015365019643182827
+      earth cat siamese_16: -4432735080661311028
+      earth cat siamese_160: -9023542499568400415
+      earth cat siamese_161: 4603358861754941650
+      earth cat siamese_162: 42758343793648681
+      earth cat siamese_163: 6289676785769282917
+      earth cat siamese_164: 1818660230216895050
+      earth cat siamese_165: 586641889634024802
+      earth cat siamese_166: 8391840962947447926
+      earth cat siamese_167: -1322610536398908985
+      earth cat siamese_168: 2658082257738062407
+      earth cat siamese_169: -6835615736773885583
+      earth cat siamese_17: 4106950658180475937
+      earth cat siamese_170: 4668257475906106323
+      earth cat siamese_171: 6905407599438681188
+      earth cat siamese_172: -5138632860195446449
+      earth cat siamese_173: -5443790864673934000
+      earth cat siamese_174: 7364958173297726687
+      earth cat siamese_175: 2689942672398893964
+      earth cat siamese_176: 2948547574676861527
+      earth cat siamese_18: 7045766172636044156
+      earth cat siamese_19: 4683051060253933360
+      earth cat siamese_2: 1798018443161436318
+      earth cat siamese_20: 2979563652635668382
+      earth cat siamese_21: -1263297176230359047
+      earth cat siamese_22: 7509510792138091136
+      earth cat siamese_23: -7053504778778645440
+      earth cat siamese_24: 7837644273241883374
+      earth cat siamese_25: 6043657216113836468
+      earth cat siamese_26: 3578827514837981457
+      earth cat siamese_27: 2341333334111022970
+      earth cat siamese_28: -3049406216540725953
+      earth cat siamese_29: 4905556160112883280
+      earth cat siamese_3: 1631031965264967724
+      earth cat siamese_30: 7149407243800879555
+      earth cat siamese_31: -507418676454474214
+      earth cat siamese_32: -8675567097426993786
+      earth cat siamese_33: 6683770224592497975
+      earth cat siamese_34: 5208123874487953964
+      earth cat siamese_35: -8568563034744668933
+      earth cat siamese_36: 6735257509698660893
+      earth cat siamese_37: -7574491743741634293
+      earth cat siamese_38: 4453641250266973441
+      earth cat siamese_39: 6349233826961012707
+      earth cat siamese_4: -5953252517050151219
+      earth cat siamese_40: -2580763133759908424
+      earth cat siamese_41: 2962893037278518192
+      earth cat siamese_42: 5586501051133324864
+      earth cat siamese_43: -8765597026645942183
+      earth cat siamese_44: -6079574351984251487
+      earth cat siamese_45: 8978863477168773870
+      earth cat siamese_46: 6491626135483936013
+      earth cat siamese_47: 1023095575752316436
+      earth cat siamese_48: 635563724988656731
+      earth cat siamese_49: -2479857002529679887
+      earth cat siamese_5: 313364700688565387
+      earth cat siamese_50: -3759464560710268290
+      earth cat siamese_51: 3744769941752869810
+      earth cat siamese_52: -2981678728080076135
+      earth cat siamese_53: 8288587078954638660
+      earth cat siamese_54: -6944841061221941305
+      earth cat siamese_55: 6244745867897434391
+      earth cat siamese_56: 1266721890288004823
+      earth cat siamese_57: 6413167539429835643
+      earth cat siamese_58: -7002627619589047661
+      earth cat siamese_59: 9178522819513893390
+      earth cat siamese_6: 2142980049848823848
+      earth cat siamese_60: 4609584310319840562
+      earth cat siamese_61: 4056215326051808956
+      earth cat siamese_62: 3740403251313686013
+      earth cat siamese_63: -2446141378923716393
+      earth cat siamese_64: -6680796252079664243
+      earth cat siamese_65: -6649297839595387492
+      earth cat siamese_66: 2787883611473595387
+      earth cat siamese_67: 6428642304385198662
+      earth cat siamese_68: -5393112753812989650
+      earth cat siamese_69: 5988577053319506741
+      earth cat siamese_7: -6759777740910720765
+      earth cat siamese_70: 4588426658131170227
+      earth cat siamese_71: 3329535186940272286
+      earth cat siamese_72: -3403371802664114394
+      earth cat siamese_73: 7314979361825647087
+      earth cat siamese_74: -3750053324370203105
+      earth cat siamese_75: -1870254655741859506
+      earth cat siamese_76: 7913133286994517726
+      earth cat siamese_77: -5536240167973894544
+      earth cat siamese_78: -2202989574442612029
+      earth cat siamese_79: -4816371913583791683
+      earth cat siamese_8: -1593518030063227273
+      earth cat siamese_80: 3603336910164367238
+      earth cat siamese_81: -6461288704777154328
+      earth cat siamese_82: -2469506528563163529
+      earth cat siamese_83: -4386250168538886913
+      earth cat siamese_84: -8250407801151261233
+      earth cat siamese_85: 1190714224468505497
+      earth cat siamese_86: -5563391245037697788
+      earth cat siamese_87: -5446251622797082557
+      earth cat siamese_88: 724086319534972519
+      earth cat siamese_89: -982234748343390079
+      earth cat siamese_9: 893572163584860524
+      earth cat siamese_90: 6065815936706676178
+      earth cat siamese_91: -8379064159800037773
+      earth cat siamese_92: 2800307478852046471
+      earth cat siamese_93: -6369679616818007025
+      earth cat siamese_94: -5377806842846302878
+      earth cat siamese_95: -4325189447727521359
+      earth cat siamese_96: 2714658132940476816
+      earth cat siamese_97: -9172077601338386087
+      earth cat siamese_98: 8534323297065751704
+      earth cat siamese_99: 1161311485255201069
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
