@@ -1021,7 +1021,7 @@ GameObject:
   - component: {fileID: 714839433}
   - component: {fileID: 714839435}
   m_Layer: 5
-  m_Name: Openin(3)
+  m_Name: Opening(3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1641,8 +1641,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 124.2, y: -113.8}
-  m_SizeDelta: {x: 780.1, y: 296.2}
+  m_AnchoredPosition: {x: 124.2, y: -211.4}
+  m_SizeDelta: {x: 1000, y: 400}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1258337718
 MonoBehaviour:
@@ -1759,7 +1759,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "Earth Cat is the strongest of the Felines - Confident and unshaken. \nTo
-    endure is to remember. \nhe will tests the resilience you once held .\nThe courage
+    endure is to remember. \nhe will test the resilience you once held .\nThe courage
     to stand, the will to keep going.\nIn every struggle, your true self breaks through."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
