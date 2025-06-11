@@ -12,6 +12,7 @@ public class LogicScript : MonoBehaviour
     public GameObject RestartGame;
     public LivesScript LivesScript;
     public GameObject Exit;
+  
 
 
     void Start()
@@ -32,6 +33,7 @@ public class LogicScript : MonoBehaviour
 
     public void restartGame()
     {
+       
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 
@@ -39,10 +41,12 @@ public class LogicScript : MonoBehaviour
     {
         Exit.SetActive(false);
         GameOverScreen.SetActive(true);
+       
     }
 
     public void GameWon()
     {
+
         GameWonScreen.SetActive(true);
     }
 
