@@ -29,8 +29,16 @@ public class Game : MonoBehaviour
     {
         complete = false;
         staticData2.value = complete;
-
-        NewGame();
+        coversNum = 15;
+        covers.text = coversNum.ToString();
+        GameOverScreen.SetActive(false);
+        text.SetActive(true);
+        gameover = false;
+        state = new CellScript[width, height];
+        GenerateCells();
+        GenerateNomNoms();
+        GenerateNumbers();
+        board.Draw(state);
     }
 
     // Update is called once per frame
@@ -64,18 +72,11 @@ public class Game : MonoBehaviour
         }
     }
 
-    public void NewGame()
+    public void Restart()
     {
-        coversNum = 15;
-        covers.text = coversNum.ToString();
         GameOverScreen.SetActive(false);
         text.SetActive(true);
         gameover = false;
-        state = new CellScript[width, height];
-        GenerateCells();
-        GenerateNomNoms();
-        GenerateNumbers();
-        board.Draw(state);
     }
 
     private void GenerateCells()
@@ -251,19 +252,6 @@ public class Game : MonoBehaviour
         cell.revealed = true;
         cell.burnt = true;
         state[cell.position.x, cell.position.y] = cell;
-
-        for (int x = 0; x < width; x++)
-        {
-            for (int y = 0; y < height; y++)
-            {
-                cell = state[x, y];
-                if (cell.type == CellScript.Type.NomNom)
-                {
-                    cell.revealed = true;
-                    state[x, y] = cell;
-                }
-            }
-        }
     }
 
     private void checkWin()
@@ -273,7 +261,7 @@ public class Game : MonoBehaviour
             for (int y = 0; y < height; y++)
             {
                 CellScript cell = state[x, y];
-                if (!cell.revealed && cell.type != CellScript.Type.NomNom)
+                if (!cell.revealed && (cell.burnt || cell.type != CellScript.Type.NomNom))
                 {
                     return;
                 }
