@@ -11,6 +11,7 @@ public class LogicScript : MonoBehaviour
     public Text Lives;
     public GameObject RestartGame;
     public LivesScript LivesScript;
+    public GameObject Exit;
 
 
     void Start()
@@ -36,6 +37,7 @@ public class LogicScript : MonoBehaviour
 
     public void GameOver()
     {
+        Exit.SetActive(false);
         GameOverScreen.SetActive(true);
     }
 
