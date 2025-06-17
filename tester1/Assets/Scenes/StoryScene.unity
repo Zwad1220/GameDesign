@@ -291,8 +291,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 89.9, y: 3.66}
-  m_SizeDelta: {x: 322, y: 71.3}
+  m_AnchoredPosition: {x: -0.000022888, y: -12}
+  m_SizeDelta: {x: 433.807, y: 71.3}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &39175248
 MonoBehaviour:
@@ -314,7 +314,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: I've got it right he.......
+  m_text: I've got it right he-
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -713,7 +713,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -65.7, y: -433.1}
+  m_AnchoredPosition: {x: 0, y: -433.1}
   m_SizeDelta: {x: 483.9, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &321994368
@@ -788,7 +788,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 95, y: 102.12}
+  m_AnchoredPosition: {x: 31.9, y: 105}
   m_SizeDelta: {x: 1856.2, y: 162.84}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &332539106
@@ -813,10 +813,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: '
 
-    somewhere far far away in the woods rest
-
-    a witch and her trusty
-    slave.......or so she thought'
+    in a land far far away, a witch, and her trusty slave concoct potions.
+    or so they planned...'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -929,7 +927,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 82.9, y: 0}
+  m_AnchoredPosition: {x: 39, y: 0}
   m_SizeDelta: {x: 232.1, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &522561579
@@ -952,7 +950,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Oh Fuck......
+  m_text: Oh sh-
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1451,7 +1449,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 150.8, y: 2.4}
+  m_AnchoredPosition: {x: 0.000015259, y: -0.0000014305}
   m_SizeDelta: {x: 578.9, y: 81.89}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &778264420
@@ -1474,7 +1472,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'I''ll have to teach you a lesson for that '
+  m_text: I'll have to teach you a lesson for that!
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1952,7 +1950,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -1.26, y: -437.5}
+  m_AnchoredPosition: {x: 0, y: -437.5}
   m_SizeDelta: {x: 877, y: 176.9}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &967764579
@@ -2319,7 +2317,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 142, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 578.9, y: 81.89}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1126276472
@@ -2555,8 +2553,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -569.66, y: 415.2}
-  m_SizeDelta: {x: 611.5, y: 124.4}
+  m_AnchoredPosition: {x: -623.13293, y: 415.2}
+  m_SizeDelta: {x: 504.5541, y: 124.4}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1344298136
 MonoBehaviour:
@@ -2630,7 +2628,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 106.3, y: 13.8}
+  m_AnchoredPosition: {x: 22, y: 14}
   m_SizeDelta: {x: 693.3, y: 52.9}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1645575849
@@ -2653,7 +2651,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "My potion is nearly complete. \nCaroline get the elixir of life"
+  m_text: My potion is nearly complete. Get the potion of life would ya?
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -2766,7 +2764,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 104, y: 33.5}
+  m_AnchoredPosition: {x: 0, y: 25}
   m_SizeDelta: {x: 564.7, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1804147572
@@ -3001,7 +2999,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 39.99, y: 0}
+  m_AnchoredPosition: {x: 0.000011444, y: 0}
   m_SizeDelta: {x: 241.3, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2010889477
