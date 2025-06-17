@@ -32,6 +32,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/EarthWrestle.unity
     guid: 73178d6f487600244ad9f0d27f7dcd1b
+  - enabled: 1
+    path: Assets/Scenes/end scene.unity
+    guid: 241ae157a7ffade428c376482a86e8de
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

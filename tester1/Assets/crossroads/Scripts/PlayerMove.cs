@@ -1,8 +1,11 @@
 using Unity.Jobs;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class PlayerMove : MonoBehaviour
 {
+    public Text Objective;
+    public GameObject gauntlet;
     public float moveSpeed;
     public bool canMove;
     public bool active = false;
@@ -57,8 +60,8 @@ public class PlayerMove : MonoBehaviour
         }
         if (staticData.value == true && staticData2.value == true && staticData3.value == true && staticData4.value == true)
         {
-            GameComplete.Setup();
-
+            Objective.text = "Objective: Locate the gauntlet of humanity.";
+            gauntlet.SetActive(true);
         }
     }
     void Update()
